@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Pressable, ScrollView, Text, View } from 'react-native';
 import { FREE_LIMITS, PRO_PRODUCT, hasPro } from '../data/products';
 import { pickLocalized } from '../data/i18n';
@@ -52,3 +52,4 @@ export function PaywallScreen({ t, language, styles, entitlement, plans, favorit
     </ScrollView>
   );
 }
+

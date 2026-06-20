@@ -1,4 +1,4 @@
-# SaveRoom Privacy Policy
+﻿# SaveRoom Privacy Policy
 
 Last updated: 2026-06-20
 
@@ -29,7 +29,7 @@ If real App Store or Google Play purchases are added in the future, payments wil
 
 The current version of SaveRoom does not use ads, tracking, data selling, or third-party analytics.
 
-## Children’s privacy
+## Childrenâ€™s privacy
 
 SaveRoom is a general-audience guide app. It does not knowingly collect personal data from children.
 
@@ -45,6 +45,7 @@ SaveRoom is not affiliated with, sponsored by, or endorsed by Football Manager, 
 
 ## Contact
 
-Support email: TODO_SUPPORT_EMAIL
+Support email: recepkaanerkay@gmail.com
 
 This policy must be published at a publicly accessible URL for App Store submission.
+

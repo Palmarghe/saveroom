@@ -1,15 +1,15 @@
-
+﻿
 import React from 'react';
 import { Pressable, Text, View } from 'react-native';
 
 export function BottomTabs({ t, styles, activeTab, onChange }) {
   const tabs = [
-    ['home', t.home, '🏠'],
-    ['discover', t.discover, '🔎'],
-    ['wizard', t.wizard, '🧠'],
-    ['planner', t.planner, '📝'],
-    ['paywall', t.paywall, '💎'],
-    ['profile', t.profile, '👤']
+    ['home', t.home, 'ğŸ '],
+    ['discover', t.discover, 'ğŸ”'],
+    ['wizard', t.wizard, 'ğŸ§ '],
+    ['planner', t.planner, 'ğŸ“'],
+    ['paywall', t.paywall, 'ğŸ’'],
+    ['profile', t.profile, 'ğŸ‘¤']
   ];
 
   return (
@@ -25,3 +25,4 @@ export function BottomTabs({ t, styles, activeTab, onChange }) {
     </View>
   );
 }
+

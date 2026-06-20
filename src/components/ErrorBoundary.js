@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Text, View } from 'react-native';
 
 export class ErrorBoundary extends React.Component {
@@ -22,7 +22,7 @@ export class ErrorBoundary extends React.Component {
         <View style={styles.root}>
           <View style={[styles.card, { margin: 20 }]}>
             <Text style={styles.tag}>SaveRoom</Text>
-            <Text style={styles.title}>Uygulama hatası</Text>
+            <Text style={styles.title}>Uygulama hatasÄ±</Text>
             <Text style={styles.text}>{this.state.message}</Text>
           </View>
         </View>
@@ -32,3 +32,4 @@ export class ErrorBoundary extends React.Component {
     return this.props.children;
   }
 }
+

@@ -1,4 +1,4 @@
-
+﻿
 import React from 'react';
 import { Modal, Pressable, Text, View } from 'react-native';
 import { getDepartment } from '../data/departments';
@@ -49,3 +49,4 @@ export function GuideModal({ guide, language, t, styles, isPro, isFavorite, onCl
     </Modal>
   );
 }
+

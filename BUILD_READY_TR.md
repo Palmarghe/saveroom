@@ -1,8 +1,8 @@
-# SaveRoom v5.4 Build Ready Code
+﻿# SaveRoom v5.4 Build Ready Code
 
-Bu sürüm artık Expo Go önizleme odaklı değil; EAS Build ve gerçek uygulama paketleme sürecine hazırlanmış kod tabanıdır.
+Bu sÃ¼rÃ¼m artÄ±k Expo Go Ã¶nizleme odaklÄ± deÄŸil; EAS Build ve gerÃ§ek uygulama paketleme sÃ¼recine hazÄ±rlanmÄ±ÅŸ kod tabanÄ±dÄ±r.
 
-## Eklenen teknik hazırlıklar
+## Eklenen teknik hazÄ±rlÄ±klar
 
 - `app.json`
 - `eas.json`
@@ -12,7 +12,7 @@ Bu sürüm artık Expo Go önizleme odaklı değil; EAS Build ve gerçek uygulam
 - `src/components/ErrorBoundary.js`
 - `src/data/legal.js`
 
-## Gerçek uygulama için hazırlanan noktalar
+## GerÃ§ek uygulama iÃ§in hazÄ±rlanan noktalar
 
 - Bundle identifier:
   - iOS: `com.recepkaanerkay.saveroom`
@@ -21,20 +21,21 @@ Bu sürüm artık Expo Go önizleme odaklı değil; EAS Build ve gerçek uygulam
   - development
   - preview
   - production
-- İçerik doğrulama yardımcıları
-- Legal / bağımsızlık metni
+- Ä°Ã§erik doÄŸrulama yardÄ±mcÄ±larÄ±
+- Legal / baÄŸÄ±msÄ±zlÄ±k metni
 - Hata yakalama temeli
-- Pro/paywall servis katmanı korunur
+- Pro/paywall servis katmanÄ± korunur
 
-## Bilerek yapılmayanlar
+## Bilerek yapÄ±lmayanlar
 
-Bu sürümde gerçek ödeme SDK’sı eklenmedi. Çünkü RevenueCat veya react-native-iap için mağaza hesabı, ürün ID’leri ve EAS build gereklidir.
+Bu sÃ¼rÃ¼mde gerÃ§ek Ã¶deme SDKâ€™sÄ± eklenmedi. Ã‡Ã¼nkÃ¼ RevenueCat veya react-native-iap iÃ§in maÄŸaza hesabÄ±, Ã¼rÃ¼n IDâ€™leri ve EAS build gereklidir.
 
-## Sonraki teknik adım
+## Sonraki teknik adÄ±m
 
 v5.5:
-- RevenueCat veya react-native-iap seçimi
-- Gerçek product id eşleme
+- RevenueCat veya react-native-iap seÃ§imi
+- GerÃ§ek product id eÅŸleme
 - EAS production build
-- App icon ve splash asset üretimi
+- App icon ve splash asset Ã¼retimi
 - Privacy policy / terms URL ekleme
+

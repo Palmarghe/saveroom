@@ -1,24 +1,24 @@
-# App Review Notes
+﻿# App Review Notes
 
-## Türkçe
+## TÃ¼rkÃ§e
 
-SaveRoom bağımsız bir menajerlik rehberi ve save planlama uygulamasıdır.
+SaveRoom baÄŸÄ±msÄ±z bir menajerlik rehberi ve save planlama uygulamasÄ±dÄ±r.
 
-Önemli notlar:
+Ã–nemli notlar:
 
-- Football Manager, Sports Interactive veya SEGA ile bağlı değildir.
-- Resmi logo veya resmi veri tabanı kullanmaz.
-- v5.5 paketinde Pro/paywall altyapısı demo mimaridir; gerçek ödeme işlenmez.
-- Kullanıcı tarafından girilen profil, plan ve favori bilgileri cihazda yerel olarak saklanır.
-- Uygulama reklam, izleme veya üçüncü taraf analitik kullanmaz.
+- Football Manager, Sports Interactive veya SEGA ile baÄŸlÄ± deÄŸildir.
+- Resmi logo veya resmi veri tabanÄ± kullanmaz.
+- v5.5 paketinde Pro/paywall altyapÄ±sÄ± demo mimaridir; gerÃ§ek Ã¶deme iÅŸlenmez.
+- KullanÄ±cÄ± tarafÄ±ndan girilen profil, plan ve favori bilgileri cihazda yerel olarak saklanÄ±r.
+- Uygulama reklam, izleme veya Ã¼Ã§Ã¼ncÃ¼ taraf analitik kullanmaz.
 
-Test için:
+Test iÃ§in:
 
-- Uygulama açıldığında Ana Sayfa görünür.
-- Save Wizard sekmesi kariyer planı üretir.
-- Keşfet ekranı 20 karar departmanı ve 100+ rehber içerir.
-- Pro sekmesi demo Pro durumunu gösterir.
-- Profil ekranında yerel demo profil oluşturulabilir.
+- Uygulama aÃ§Ä±ldÄ±ÄŸÄ±nda Ana Sayfa gÃ¶rÃ¼nÃ¼r.
+- Save Wizard sekmesi kariyer planÄ± Ã¼retir.
+- KeÅŸfet ekranÄ± 20 karar departmanÄ± ve 100+ rehber iÃ§erir.
+- Pro sekmesi demo Pro durumunu gÃ¶sterir.
+- Profil ekranÄ±nda yerel demo profil oluÅŸturulabilir.
 
 ## English
 
@@ -39,3 +39,4 @@ Testing:
 - The Discover screen includes 20 decision departments and 100+ guides.
 - The Pro tab displays demo Pro status.
 - The Profile screen can create a local demo profile.
+

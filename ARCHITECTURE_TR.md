@@ -1,8 +1,8 @@
-# SaveRoom v5.2 Mimari
+﻿# SaveRoom v5.2 Mimari
 
-Bu sürümde tek dosyalı prototip, gerçek uygulama kod tabanına çevrildi.
+Bu sÃ¼rÃ¼mde tek dosyalÄ± prototip, gerÃ§ek uygulama kod tabanÄ±na Ã§evrildi.
 
-## Klasör yapısı
+## KlasÃ¶r yapÄ±sÄ±
 
 ```txt
 src/
@@ -34,14 +34,15 @@ src/
 App.js
 ```
 
-## Neden önemli?
+## Neden Ã¶nemli?
 
-Bundan sonra gerçek uygulama özellikleri daha güvenli eklenebilir:
+Bundan sonra gerÃ§ek uygulama Ã¶zellikleri daha gÃ¼venli eklenebilir:
 
-- Gerçek kullanıcı hesabı
-- Pro satın alma
+- GerÃ§ek kullanÄ±cÄ± hesabÄ±
+- Pro satÄ±n alma
 - Paywall
-- İçerik yönetimi
-- API bağlantısı
-- Store hazırlığı
+- Ä°Ã§erik yÃ¶netimi
+- API baÄŸlantÄ±sÄ±
+- Store hazÄ±rlÄ±ÄŸÄ±
 - Test edilebilir ekranlar
+

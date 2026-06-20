@@ -1,4 +1,4 @@
-
+﻿
 import React from 'react';
 import { Pressable, ScrollView, Text, View } from 'react-native';
 import { GUIDES, getGuideText, getGuideTitle } from '../data/guides';
@@ -66,3 +66,4 @@ export function PlansScreen({ t, language, styles, plans, setPlans, onEditNote }
     </ScrollView>
   );
 }
+

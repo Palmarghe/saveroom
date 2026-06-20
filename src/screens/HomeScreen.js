@@ -1,4 +1,4 @@
-
+﻿
 import React from 'react';
 import { Pressable, ScrollView, Text, View } from 'react-native';
 import { QUICK_PATHS } from '../data/quickPaths';
@@ -15,7 +15,7 @@ export function HomeScreen({ t, language, styles, profile, plans, favorites, onT
       <View style={styles.hero}>
         <Scene type="career" styles={styles} large />
         <View style={styles.chipRow}>
-          <View style={styles.chip}><Text style={styles.chipText}>SaveRoom v5.4 · Build Ready</Text></View>
+          <View style={styles.chip}><Text style={styles.chipText}>SaveRoom v5.4 Â· Build Ready</Text></View>
           <View style={styles.chip}><Text style={styles.chipText}>{profile.loggedIn ? `${t.welcome}, ${profile.name}` : t.subtitle}</Text></View>
         </View>
         <Text style={styles.heroTitle}>{t.heroTitle}</Text>
@@ -29,12 +29,12 @@ export function HomeScreen({ t, language, styles, profile, plans, favorites, onT
       <View style={styles.card}>
         <Text style={styles.tag}>{t.productionMode}</Text>
         <Text style={styles.title}>v5.4 Build Ready Code</Text>
-        <Text style={styles.text}>Kod tabanı EAS Build, mağaza hazırlığı ve gerçek uygulama paketleme sürecine hazırlandı.</Text>
+        <Text style={styles.text}>Kod tabanÄ± EAS Build, maÄŸaza hazÄ±rlÄ±ÄŸÄ± ve gerÃ§ek uygulama paketleme sÃ¼recine hazÄ±rlandÄ±.</Text>
       </View>
 
       <View style={styles.card}>
         <Text style={styles.tag}>State</Text>
-        <Text style={styles.title}>{plans.length} plan · {favorites.length} favori</Text>
+        <Text style={styles.title}>{plans.length} plan Â· {favorites.length} favori</Text>
         <Text style={styles.text}>{t.contentExpansionText}</Text>
       </View>
 
@@ -70,3 +70,4 @@ export function HomeScreen({ t, language, styles, profile, plans, favorites, onT
     </ScrollView>
   );
 }
+

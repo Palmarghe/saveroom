@@ -1,4 +1,4 @@
-
+﻿
 import React, { useEffect, useRef, useState } from 'react';
 import { Animated, Modal, Pressable, StatusBar, Text, TextInput, View } from 'react-native';
 import { BottomTabs } from './src/components/BottomTabs';
@@ -349,3 +349,4 @@ export default function App() {
     </ErrorBoundary>
   );
 }
+

@@ -1,39 +1,40 @@
-# SaveRoom Ürün Prensipleri
+﻿# SaveRoom ÃœrÃ¼n Prensipleri
 
-## 1. Her ekran gerçek bir karar alanına bağlı olmalı
+## 1. Her ekran gerÃ§ek bir karar alanÄ±na baÄŸlÄ± olmalÄ±
 
-SaveRoom’da ekran açmanın tek sebebi güzel görünmesi değildir. Her ekran Football Manager oynarken verilen gerçek bir karara cevap vermelidir.
+SaveRoomâ€™da ekran aÃ§manÄ±n tek sebebi gÃ¼zel gÃ¶rÃ¼nmesi deÄŸildir. Her ekran Football Manager oynarken verilen gerÃ§ek bir karara cevap vermelidir.
 
-Örnek:
-- Takım seçimi: “Hangi kulüp benim oyun tarzıma uygun?”
-- Transfer: “İlk parayı hangi role harcamalıyım?”
-- Taktik: “Taktiğim neden çalışmıyor?”
-- Finans: “Kulübü bozmadan nasıl güçlenirim?”
+Ã–rnek:
+- TakÄ±m seÃ§imi: â€œHangi kulÃ¼p benim oyun tarzÄ±ma uygun?â€
+- Transfer: â€œÄ°lk parayÄ± hangi role harcamalÄ±yÄ±m?â€
+- Taktik: â€œTaktiÄŸim neden Ã§alÄ±ÅŸmÄ±yor?â€
+- Finans: â€œKulÃ¼bÃ¼ bozmadan nasÄ±l gÃ¼Ã§lenirim?â€
 
-## 2. İçerik bağlamı rastgele olmamalı
+## 2. Ä°Ã§erik baÄŸlamÄ± rastgele olmamalÄ±
 
-Her rehber şu modele sahip olmalı:
-- Ekranın görevi
-- Cevapladığı karar
-- Kullanıcıya verdiği aksiyon
-- Risk veya dikkat noktası
-- Pro değer önerisi
+Her rehber ÅŸu modele sahip olmalÄ±:
+- EkranÄ±n gÃ¶revi
+- CevapladÄ±ÄŸÄ± karar
+- KullanÄ±cÄ±ya verdiÄŸi aksiyon
+- Risk veya dikkat noktasÄ±
+- Pro deÄŸer Ã¶nerisi
 
-## 3. Dil kalitesi ürün kalitesidir
+## 3. Dil kalitesi Ã¼rÃ¼n kalitesidir
 
-Tam kontrol edilmemiş dil mağaza sürümünde aktif edilmemelidir. v5.0’da Türkçe ve İngilizce üretim dili, diğer diller planlanan lokalizasyon olarak tutulur.
+Tam kontrol edilmemiÅŸ dil maÄŸaza sÃ¼rÃ¼mÃ¼nde aktif edilmemelidir. v5.0â€™da TÃ¼rkÃ§e ve Ä°ngilizce Ã¼retim dili, diÄŸer diller planlanan lokalizasyon olarak tutulur.
 
-## 4. Pro gerçek değer üretmeli
+## 4. Pro gerÃ§ek deÄŸer Ã¼retmeli
 
-Pro sadece kilitli paragraf olmamalı. Pro tarafında:
+Pro sadece kilitli paragraf olmamalÄ±. Pro tarafÄ±nda:
 - 3 sezonluk plan
-- karar ağacı
-- bütçe/risk matrisi
-- gelişim riski
-- kriz protokolü
-- gelişmiş scout filtreleri
-gibi zaman kazandıran araçlar olmalı.
+- karar aÄŸacÄ±
+- bÃ¼tÃ§e/risk matrisi
+- geliÅŸim riski
+- kriz protokolÃ¼
+- geliÅŸmiÅŸ scout filtreleri
+gibi zaman kazandÄ±ran araÃ§lar olmalÄ±.
 
-## 5. Legal sınırlar
+## 5. Legal sÄ±nÄ±rlar
 
-SaveRoom bağımsız bir menajerlik rehberi uygulamasıdır. Football Manager, Sports Interactive veya SEGA ile bağlıymış gibi davranmaz. Resmi logo, marka varlığı veya scrape edilmiş veritabanı kullanılmaz.
+SaveRoom baÄŸÄ±msÄ±z bir menajerlik rehberi uygulamasÄ±dÄ±r. Football Manager, Sports Interactive veya SEGA ile baÄŸlÄ±ymÄ±ÅŸ gibi davranmaz. Resmi logo, marka varlÄ±ÄŸÄ± veya scrape edilmiÅŸ veritabanÄ± kullanÄ±lmaz.
+

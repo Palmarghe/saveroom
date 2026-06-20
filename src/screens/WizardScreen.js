@@ -1,4 +1,4 @@
-
+﻿
 import React from 'react';
 import { Pressable, ScrollView, Text, View } from 'react-native';
 import { WIZARD_OPTIONS, buildWizardResult } from '../data/wizard';
@@ -63,3 +63,4 @@ export function WizardScreen({ t, language, styles, wizard, setWizard, onAddWiza
     </ScrollView>
   );
 }
+

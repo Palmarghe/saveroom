@@ -1,7 +1,7 @@
-export const QUICK_PATHS = [
+﻿export const QUICK_PATHS = [
   {
     "id": "wizard",
-    "icon": "🧠",
+    "icon": "ğŸ§ ",
     "target": "wizard",
     "title": {
       "tr": "Save Wizard",
@@ -10,25 +10,25 @@ export const QUICK_PATHS = [
   },
   {
     "id": "departments",
-    "icon": "🏢",
+    "icon": "ğŸ¢",
     "target": "discover",
     "title": {
-      "tr": "Departmanları Aç",
+      "tr": "DepartmanlarÄ± AÃ§",
       "en": "Open Departments"
     }
   },
   {
     "id": "crisis",
-    "icon": "🧯",
+    "icon": "ğŸ§¯",
     "target": "crisis",
     "title": {
-      "tr": "Kriz Çöz",
+      "tr": "Kriz Ã‡Ã¶z",
       "en": "Solve Crisis"
     }
   },
   {
     "id": "squad",
-    "icon": "🧩",
+    "icon": "ğŸ§©",
     "target": "squadPlan",
     "title": {
       "tr": "Kadro Planla",
@@ -36,3 +36,4 @@ export const QUICK_PATHS = [
     }
   }
 ];
+

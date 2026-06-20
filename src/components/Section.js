@@ -1,4 +1,4 @@
-
+﻿
 import React from 'react';
 import { Text, View } from 'react-native';
 
@@ -10,3 +10,4 @@ export function Section({ title, sub, styles }) {
     </View>
   );
 }
+

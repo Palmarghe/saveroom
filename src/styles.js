@@ -1,4 +1,4 @@
-
+﻿
 import { Dimensions, Platform, StatusBar, StyleSheet } from 'react-native';
 
 const { width } = Dimensions.get('window');
@@ -90,3 +90,4 @@ export function createStyles(c) {
     toastText:{color:c.ink,fontWeight:'900'}
   });
 }
+

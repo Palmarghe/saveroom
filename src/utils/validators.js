@@ -1,4 +1,4 @@
-import { DEPARTMENTS } from '../data/departments';
+﻿import { DEPARTMENTS } from '../data/departments';
 import { GUIDES } from '../data/guides';
 import { LANGUAGES } from '../data/languages';
 import { PALETTES, THEME_IDS } from '../data/themes';
@@ -26,3 +26,4 @@ export function validateContentModel() {
 
   return { ok: errors.length === 0, errors, guideCount: GUIDES.length, departmentCount: DEPARTMENTS.length, themeCount: THEME_IDS.length };
 }
+

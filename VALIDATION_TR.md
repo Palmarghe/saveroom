@@ -1,11 +1,12 @@
-# v5.2 Kontrol Notları
+﻿# v5.2 Kontrol NotlarÄ±
 
-Bu paket JSX içerdiği için `node --check` doğrudan tüm dosyalara uygulanmaz; Expo/Babel derlemesi sırasında parse edilir.
+Bu paket JSX iÃ§erdiÄŸi iÃ§in `node --check` doÄŸrudan tÃ¼m dosyalara uygulanmaz; Expo/Babel derlemesi sÄ±rasÄ±nda parse edilir.
 
-Elle yapılan kontroller:
+Elle yapÄ±lan kontroller:
 
-- Eski marka kalıntısı yok.
-- Python boolean/null kalıntıları yok.
-- 100 rehber veri dosyasında korunuyor.
-- Storage anahtarı v5.2'ye ayrıldı.
-- Komut dosyaları v5.2 adına güncellendi.
+- Eski marka kalÄ±ntÄ±sÄ± yok.
+- Python boolean/null kalÄ±ntÄ±larÄ± yok.
+- 100 rehber veri dosyasÄ±nda korunuyor.
+- Storage anahtarÄ± v5.2'ye ayrÄ±ldÄ±.
+- Komut dosyalarÄ± v5.2 adÄ±na gÃ¼ncellendi.
+

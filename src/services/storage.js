@@ -1,4 +1,4 @@
-import AsyncStorage from '@react-native-async-storage/async-storage';
+﻿import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export const STORAGE_KEY = 'saveroom_v5_3_state';
 
@@ -32,3 +32,4 @@ export async function saveAppState(state) {
     // Local persistence failure should not block the UI.
   }
 }
+

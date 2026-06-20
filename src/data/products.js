@@ -1,4 +1,4 @@
-export const PRO_PRODUCT = {
+﻿export const PRO_PRODUCT = {
   id: 'saveroom_lifetime_pro',
   type: 'lifetime',
   priceLabel: {
@@ -10,29 +10,29 @@ export const PRO_PRODUCT = {
     en: 'SaveRoom Pro'
   },
   promise: {
-    tr: 'Sınırsız plan, sınırsız favori, Pro rehberler ve gelişmiş karar araçları.',
+    tr: 'SÄ±nÄ±rsÄ±z plan, sÄ±nÄ±rsÄ±z favori, Pro rehberler ve geliÅŸmiÅŸ karar araÃ§larÄ±.',
     en: 'Unlimited plans, unlimited favorites, Pro guides and advanced decision tools.'
   },
   benefits: [
     {
       id: 'unlimitedPlans',
-      title: { tr: 'Sınırsız plan', en: 'Unlimited plans' },
-      text: { tr: 'Her rehberi ve Wizard sonucunu sezon planına ekle.', en: 'Add every guide and Wizard result to your season plan.' }
+      title: { tr: 'SÄ±nÄ±rsÄ±z plan', en: 'Unlimited plans' },
+      text: { tr: 'Her rehberi ve Wizard sonucunu sezon planÄ±na ekle.', en: 'Add every guide and Wizard result to your season plan.' }
     },
     {
       id: 'unlimitedFavorites',
-      title: { tr: 'Sınırsız favori', en: 'Unlimited favorites' },
-      text: { tr: 'Free limitine takılmadan karar kartlarını sakla.', en: 'Save decision cards without the Free limit.' }
+      title: { tr: 'SÄ±nÄ±rsÄ±z favori', en: 'Unlimited favorites' },
+      text: { tr: 'Free limitine takÄ±lmadan karar kartlarÄ±nÄ± sakla.', en: 'Save decision cards without the Free limit.' }
     },
     {
       id: 'proGuides',
       title: { tr: 'Pro rehberler', en: 'Pro guides' },
-      text: { tr: 'Risk matrisi, kriz protokolü ve karar ağacı içeriklerini aç.', en: 'Unlock risk matrices, crisis protocols and decision-tree content.' }
+      text: { tr: 'Risk matrisi, kriz protokolÃ¼ ve karar aÄŸacÄ± iÃ§eriklerini aÃ§.', en: 'Unlock risk matrices, crisis protocols and decision-tree content.' }
     },
     {
       id: 'futureSync',
-      title: { tr: 'Gelecek senkronizasyon altyapısı', en: 'Future sync foundation' },
-      text: { tr: 'Hesap ve cihazlar arası kullanım için veri modeli hazırdır.', en: 'Data model is ready for account and cross-device usage.' }
+      title: { tr: 'Gelecek senkronizasyon altyapÄ±sÄ±', en: 'Future sync foundation' },
+      text: { tr: 'Hesap ve cihazlar arasÄ± kullanÄ±m iÃ§in veri modeli hazÄ±rdÄ±r.', en: 'Data model is ready for account and cross-device usage.' }
     }
   ]
 };
@@ -65,3 +65,4 @@ export function createDemoProEntitlement() {
     expiresAt: null
   };
 }
+

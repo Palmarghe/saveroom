@@ -1,4 +1,4 @@
-
+﻿
 import React from 'react';
 import { Pressable, ScrollView, Text, TextInput, View } from 'react-native';
 import { DEPARTMENTS, getDepartment } from '../data/departments';
@@ -15,7 +15,7 @@ export function DiscoverScreen({ t, language, styles, palette, selectedDepartmen
     return (
       <ScrollView contentContainerStyle={styles.scroll} showsVerticalScrollIndicator={false}>
         <Pressable onPress={() => setSelectedDepartmentId(null)}>
-          <Text style={styles.gold}>‹ {t.discover}</Text>
+          <Text style={styles.gold}>â€¹ {t.discover}</Text>
         </Pressable>
         <Text style={styles.pageTitle}>{pickLocalized(department.title, language)}</Text>
         <Text style={styles.pageSub}>{pickLocalized(department.purpose, language)}</Text>
@@ -64,7 +64,7 @@ export function DiscoverScreen({ t, language, styles, palette, selectedDepartmen
               <Text style={styles.icon}>{item.icon}</Text>
               <Text style={styles.title}>{pickLocalized(item.title, language)}</Text>
               <Text style={styles.text}>{pickLocalized(item.purpose, language)}</Text>
-              <Text style={styles.gold}>{t.openDepartment} ›</Text>
+              <Text style={styles.gold}>{t.openDepartment} â€º</Text>
             </Pressable>
           ))}
         </View>
@@ -72,3 +72,4 @@ export function DiscoverScreen({ t, language, styles, palette, selectedDepartmen
     </ScrollView>
   );
 }
+

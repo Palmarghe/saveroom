@@ -1,28 +1,29 @@
-# SaveRoom İçerik Modeli
+﻿# SaveRoom Ä°Ã§erik Modeli
 
-Her departman için içerik şu yapıda yazılmalı:
+Her departman iÃ§in iÃ§erik ÅŸu yapÄ±da yazÄ±lmalÄ±:
 
 ```json
 {
   "department": "Transfer Merkezi",
-  "screenPurpose": "Transferleri ihtiyaç, bütçe, rol ve risk sırasına göre önceliklendirir.",
-  "decisionQuestion": "İlk parayı hangi role harcamalıyım?",
-  "freeValue": "Temel ihtiyaç analizi",
-  "proValue": "Bütçe/risk matrisi",
-  "nextAction": "Transfer öncelik sırası oluştur",
-  "risk": "Yanlış transfer maaş dengesini ve rol dağılımını bozabilir."
+  "screenPurpose": "Transferleri ihtiyaÃ§, bÃ¼tÃ§e, rol ve risk sÄ±rasÄ±na gÃ¶re Ã¶nceliklendirir.",
+  "decisionQuestion": "Ä°lk parayÄ± hangi role harcamalÄ±yÄ±m?",
+  "freeValue": "Temel ihtiyaÃ§ analizi",
+  "proValue": "BÃ¼tÃ§e/risk matrisi",
+  "nextAction": "Transfer Ã¶ncelik sÄ±rasÄ± oluÅŸtur",
+  "risk": "YanlÄ±ÅŸ transfer maaÅŸ dengesini ve rol daÄŸÄ±lÄ±mÄ±nÄ± bozabilir."
 }
 ```
 
-## İçerik türleri
+## Ä°Ã§erik tÃ¼rleri
 
 1. Karar rehberi
 2. Kontrol listesi
-3. Karar ağacı
+3. Karar aÄŸacÄ±
 4. 3 sezonluk plan
 5. Rol/pozisyon matrisi
-6. Kriz protokolü
+6. Kriz protokolÃ¼
 7. Scout filtresi
-8. Bütçe/risk tablosu
-9. Maç günü senaryosu
+8. BÃ¼tÃ§e/risk tablosu
+9. MaÃ§ gÃ¼nÃ¼ senaryosu
 10. Challenge kural seti
+

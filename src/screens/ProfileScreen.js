@@ -1,4 +1,4 @@
-
+﻿
 import React from 'react';
 import { Pressable, ScrollView, Text, TextInput, View } from 'react-native';
 import { LANGUAGES } from '../data/languages';
@@ -75,7 +75,7 @@ export function ProfileScreen({
                 }}
               >
                 <Text style={[styles.langText, selected ? styles.langTextActive : null]}>
-                  {item.local}{production ? '' : ` · ${t.lockedLanguage}`}
+                  {item.local}{production ? '' : ` Â· ${t.lockedLanguage}`}
                 </Text>
               </Pressable>
             );
@@ -98,7 +98,7 @@ export function ProfileScreen({
                 <Text style={styles.title}>{pickLocalized(palette.name, language)}</Text>
                 <Text style={styles.text}>{palette.mode === 'dark' ? t.darkTheme : t.lightTheme}</Text>
               </View>
-              {themeId === id ? <Text style={styles.gold}>✓</Text> : null}
+              {themeId === id ? <Text style={styles.gold}>âœ“</Text> : null}
             </Pressable>
           );
         })}
@@ -127,3 +127,4 @@ export function ProfileScreen({
     </ScrollView>
   );
 }
+

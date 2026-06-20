@@ -1,37 +1,38 @@
-# SaveRoom Kullanım Şartları
+﻿# SaveRoom KullanÄ±m ÅartlarÄ±
 
-Son güncelleme: 2026-06-20
+Son gÃ¼ncelleme: 2026-06-20
 
-Bu kullanım şartları SaveRoom uygulamasının kullanımını düzenler.
+Bu kullanÄ±m ÅŸartlarÄ± SaveRoom uygulamasÄ±nÄ±n kullanÄ±mÄ±nÄ± dÃ¼zenler.
 
-## Ürün tanımı
+## ÃœrÃ¼n tanÄ±mÄ±
 
-SaveRoom, bağımsız bir premium menajerlik rehberi ve save planlama uygulamasıdır. Kullanıcılara kariyer planlama, transfer, taktik, scouting, finans ve maç günü kararlarında rehberlik etmeyi amaçlar.
+SaveRoom, baÄŸÄ±msÄ±z bir premium menajerlik rehberi ve save planlama uygulamasÄ±dÄ±r. KullanÄ±cÄ±lara kariyer planlama, transfer, taktik, scouting, finans ve maÃ§ gÃ¼nÃ¼ kararlarÄ±nda rehberlik etmeyi amaÃ§lar.
 
-## Bağımsızlık
+## BaÄŸÄ±msÄ±zlÄ±k
 
-SaveRoom; Football Manager, Sports Interactive veya SEGA ile bağlı, sponsorlu ya da onaylı değildir.
+SaveRoom; Football Manager, Sports Interactive veya SEGA ile baÄŸlÄ±, sponsorlu ya da onaylÄ± deÄŸildir.
 
-## İçerik niteliği
+## Ä°Ã§erik niteliÄŸi
 
-Uygulamadaki içerikler öneri ve rehber niteliğindedir. Gerçek oyun sonuçlarını garanti etmez.
+Uygulamadaki iÃ§erikler Ã¶neri ve rehber niteliÄŸindedir. GerÃ§ek oyun sonuÃ§larÄ±nÄ± garanti etmez.
 
-## Pro ve ödeme
+## Pro ve Ã¶deme
 
-Mevcut v5.5 sürümünde Pro/paywall sistemi demo mimari olarak bulunur. Gerçek ödeme eklendiğinde satın alma, iptal ve iade süreçleri ilgili mağaza kurallarına göre yürütülecektir.
+Mevcut v5.5 sÃ¼rÃ¼mÃ¼nde Pro/paywall sistemi demo mimari olarak bulunur. GerÃ§ek Ã¶deme eklendiÄŸinde satÄ±n alma, iptal ve iade sÃ¼reÃ§leri ilgili maÄŸaza kurallarÄ±na gÃ¶re yÃ¼rÃ¼tÃ¼lecektir.
 
-## Kullanıcı sorumluluğu
+## KullanÄ±cÄ± sorumluluÄŸu
 
-Kullanıcı, uygulamayı yasal ve makul amaçlarla kullanmayı kabul eder. Uygulama içeriğini izinsiz yeniden dağıtamaz veya ticari olarak kopyalayamaz.
+KullanÄ±cÄ±, uygulamayÄ± yasal ve makul amaÃ§larla kullanmayÄ± kabul eder. Uygulama iÃ§eriÄŸini izinsiz yeniden daÄŸÄ±tamaz veya ticari olarak kopyalayamaz.
 
-## Sorumluluk sınırlaması
+## Sorumluluk sÄ±nÄ±rlamasÄ±
 
-SaveRoom, uygulamadaki rehberlerin her kullanıcı için aynı sonucu vereceğini garanti etmez. Uygulama “olduğu gibi” sunulur.
+SaveRoom, uygulamadaki rehberlerin her kullanÄ±cÄ± iÃ§in aynÄ± sonucu vereceÄŸini garanti etmez. Uygulama â€œolduÄŸu gibiâ€ sunulur.
 
-## Değişiklikler
+## DeÄŸiÅŸiklikler
 
-Bu şartlar zaman içinde güncellenebilir. Güncel metin uygulama veya web bağlantısı üzerinden yayınlanır.
+Bu ÅŸartlar zaman iÃ§inde gÃ¼ncellenebilir. GÃ¼ncel metin uygulama veya web baÄŸlantÄ±sÄ± Ã¼zerinden yayÄ±nlanÄ±r.
 
-## İletişim
+## Ä°letiÅŸim
 
-Destek e-postası: TODO_SUPPORT_EMAIL
+Destek e-postasÄ±: recepkaanerkay@gmail.com
+

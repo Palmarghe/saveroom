@@ -1,4 +1,4 @@
-
+﻿
 import React from 'react';
 import { Pressable, Text, View } from 'react-native';
 import { getDepartment } from '../data/departments';
@@ -29,3 +29,4 @@ export function GuideCard({ guide, language, t, styles, onOpen, onAddPlan }) {
     </Pressable>
   );
 }
+

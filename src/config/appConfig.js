@@ -1,10 +1,10 @@
-export const APP_CONFIG = {
+﻿export const APP_CONFIG = {
   appName: 'SaveRoom',
   version: '5.5',
   owner: 'Recep Kaan Erkay',
-  creditTr: 'Recep Kaan Erkay tarafından üretilmiştir.',
+  creditTr: 'Recep Kaan Erkay tarafÄ±ndan Ã¼retilmiÅŸtir.',
   creditEn: 'Produced by Recep Kaan Erkay.',
-  supportEmail: 'TODO_SUPPORT_EMAIL',
+  supportEmail: 'recepkaanerkay@gmail.com',
   privacyPolicyUrl: 'TODO_PUBLIC_PRIVACY_POLICY_URL',
   termsUrl: 'TODO_PUBLIC_TERMS_URL',
   buildMode: 'store_submission_pack',
@@ -19,3 +19,4 @@ export const APP_CONFIG = {
 export function getCredit(language = 'tr') {
   return language === 'tr' ? APP_CONFIG.creditTr : APP_CONFIG.creditEn;
 }
+

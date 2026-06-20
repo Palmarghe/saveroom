@@ -1,37 +1,37 @@
-# SaveRoom'u GitHub'a Yükleme Rehberi
+﻿# SaveRoom'u GitHub'a YÃ¼kleme Rehberi
 
-Bu paket GitHub repository ve GitHub Pages için hazırlandı.
+Bu paket GitHub repository ve GitHub Pages iÃ§in hazÄ±rlandÄ±.
 
-## Önerilen repository adı
+## Ã–nerilen repository adÄ±
 
 `saveroom`
 
-## 1. GitHub'da repo oluştur
+## 1. GitHub'da repo oluÅŸtur
 
-1. GitHub hesabına gir.
-2. Sağ üstte `+` işaretine bas.
-3. `New repository` seç.
+1. GitHub hesabÄ±na gir.
+2. SaÄŸ Ã¼stte `+` iÅŸaretine bas.
+3. `New repository` seÃ§.
 4. Repository name: `saveroom`
-5. İlk aşamada `Private` seçmeni öneririm.
+5. Ä°lk aÅŸamada `Private` seÃ§meni Ã¶neririm.
 6. `Create repository` butonuna bas.
 
-## 2. Dosyaları bilgisayarda hazırla
+## 2. DosyalarÄ± bilgisayarda hazÄ±rla
 
-Bu ZIP'i bir klasöre çıkar.
+Bu ZIP'i bir klasÃ¶re Ã§Ä±kar.
 
-Örnek:
+Ã–rnek:
 
 `C:\Users\Kaan\Desktop\saveroom`
 
-## 3. Git ile yükle
+## 3. Git ile yÃ¼kle
 
-Klasörde sağ tıkla, Terminal/CMD aç ve `GIT_COMMANDS_TR.md` içindeki komutları kullan.
+KlasÃ¶rde saÄŸ tÄ±kla, Terminal/CMD aÃ§ ve `GIT_COMMANDS_TR.md` iÃ§indeki komutlarÄ± kullan.
 
-## 4. GitHub Pages aç
+## 4. GitHub Pages aÃ§
 
-Privacy Policy ve Terms için GitHub Pages kullanacağız.
+Privacy Policy ve Terms iÃ§in GitHub Pages kullanacaÄŸÄ±z.
 
-GitHub'da repo içinde:
+GitHub'da repo iÃ§inde:
 
 1. Settings
 2. Pages
@@ -41,7 +41,7 @@ GitHub'da repo içinde:
 6. Folder: `/docs`
 7. Save
 
-Birkaç dakika sonra URL şuna benzer olur:
+BirkaÃ§ dakika sonra URL ÅŸuna benzer olur:
 
 `https://KULLANICI_ADIN.github.io/saveroom/privacy.html`
 
@@ -49,22 +49,23 @@ Terms URL:
 
 `https://KULLANICI_ADIN.github.io/saveroom/terms.html`
 
-## 5. app.json içindeki TODO alanlarını güncelle
+## 5. app.json iÃ§indeki TODO alanlarÄ±nÄ± gÃ¼ncelle
 
-GitHub Pages URL'lerin oluşunca `app.json` içindeki şu alanları gerçek URL ile değiştir:
+GitHub Pages URL'lerin oluÅŸunca `app.json` iÃ§indeki ÅŸu alanlarÄ± gerÃ§ek URL ile deÄŸiÅŸtir:
 
 - `TODO_PUBLIC_PRIVACY_POLICY_URL`
 - `TODO_PUBLIC_TERMS_URL`
-- `TODO_PUBLIC_SUPPORT_URL`
+- `mailto:recepkaanerkay@gmail.com`
 
-Ayrıca `src/config/appConfig.js` içinde:
+AyrÄ±ca `src/config/appConfig.js` iÃ§inde:
 
-- `TODO_SUPPORT_EMAIL`
+- `recepkaanerkay@gmail.com`
 - `TODO_PUBLIC_PRIVACY_POLICY_URL`
 - `TODO_PUBLIC_TERMS_URL`
 
-alanlarını güncelle.
+alanlarÄ±nÄ± gÃ¼ncelle.
 
-## Önemli
+## Ã–nemli
 
-App Store için Privacy Policy URL herkese açık olmalı. Repository private olsa bile GitHub Pages ayarının yayınlanabilmesi için GitHub planına ve repo ayarlarına dikkat et. En sorunsuz yöntem: kod repo private, legal docs için küçük ayrı public repo kullanmak olabilir.
+App Store iÃ§in Privacy Policy URL herkese aÃ§Ä±k olmalÄ±. Repository private olsa bile GitHub Pages ayarÄ±nÄ±n yayÄ±nlanabilmesi iÃ§in GitHub planÄ±na ve repo ayarlarÄ±na dikkat et. En sorunsuz yÃ¶ntem: kod repo private, legal docs iÃ§in kÃ¼Ã§Ã¼k ayrÄ± public repo kullanmak olabilir.
+

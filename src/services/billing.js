@@ -1,4 +1,4 @@
-import { createDemoProEntitlement, createFreeEntitlement } from '../data/products';
+﻿import { createDemoProEntitlement, createFreeEntitlement } from '../data/products';
 
 export async function getAvailableProducts() {
   // Production note:
@@ -24,3 +24,4 @@ export async function restorePurchases() {
   // In production this should restore purchases from the store account.
   return createFreeEntitlement();
 }
+

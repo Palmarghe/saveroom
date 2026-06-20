@@ -1,7 +1,7 @@
-export const LANGUAGES = [
+﻿export const LANGUAGES = [
   {
     "code": "tr",
-    "local": "Türkçe",
+    "local": "TÃ¼rkÃ§e",
     "quality": "production"
   },
   {
@@ -11,12 +11,12 @@ export const LANGUAGES = [
   },
   {
     "code": "es",
-    "local": "Español",
+    "local": "EspaÃ±ol",
     "quality": "planned"
   },
   {
     "code": "fr",
-    "local": "Français",
+    "local": "FranÃ§ais",
     "quality": "planned"
   },
   {
@@ -31,32 +31,33 @@ export const LANGUAGES = [
   },
   {
     "code": "pt",
-    "local": "Português",
+    "local": "PortuguÃªs",
     "quality": "planned"
   },
   {
     "code": "ar",
-    "local": "العربية",
+    "local": "Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©",
     "quality": "planned"
   },
   {
     "code": "hi",
-    "local": "हिन्दी",
+    "local": "à¤¹à¤¿à¤¨à¥à¤¦à¥€",
     "quality": "planned"
   },
   {
     "code": "zh",
-    "local": "中文",
+    "local": "ä¸­æ–‡",
     "quality": "planned"
   },
   {
     "code": "ru",
-    "local": "Русский",
+    "local": "Ğ ÑƒÑÑĞºĞ¸Ğ¹",
     "quality": "planned"
   },
   {
     "code": "ja",
-    "local": "日本語",
+    "local": "æ—¥æœ¬èª",
     "quality": "planned"
   }
 ];
+

@@ -1,20 +1,20 @@
-export const PALETTES = {
+﻿export const PALETTES = {
   "darkGold": {
     "id": "darkGold",
     "mode": "dark",
     "name": {
-      "tr": "Gece Altın",
+      "tr": "Gece AltÄ±n",
       "en": "Night Gold",
       "es": "Noche Dorada",
-      "fr": "Nuit Dorée",
+      "fr": "Nuit DorÃ©e",
       "de": "Nachtgold",
       "it": "Notte Oro",
       "pt": "Noite Dourada",
-      "ar": "ليل ذهبي",
-      "hi": "नाइट गोल्ड",
-      "zh": "夜金",
-      "ru": "Ночное золото",
-      "ja": "ナイトゴールド"
+      "ar": "Ù„ÙŠÙ„ Ø°Ù‡Ø¨ÙŠ",
+      "hi": "à¤¨à¤¾à¤‡à¤Ÿ à¤—à¥‹à¤²à¥à¤¡",
+      "zh": "å¤œé‡‘",
+      "ru": "ĞĞ¾Ñ‡Ğ½Ğ¾Ğµ Ğ·Ğ¾Ğ»Ğ¾Ñ‚Ğ¾",
+      "ja": "ãƒŠã‚¤ãƒˆã‚´ãƒ¼ãƒ«ãƒ‰"
     },
     "bg": "#05070D",
     "card": "#111827",
@@ -61,7 +61,7 @@ export const PALETTES = {
     "id": "emeraldNoir",
     "mode": "dark",
     "name": {
-      "tr": "Zümrüt Noir",
+      "tr": "ZÃ¼mrÃ¼t Noir",
       "en": "Emerald Noir"
     },
     "bg": "#03100B",
@@ -109,7 +109,7 @@ export const PALETTES = {
     "id": "porcelainGold",
     "mode": "light",
     "name": {
-      "tr": "Porselen Altın",
+      "tr": "Porselen AltÄ±n",
       "en": "Porcelain Gold"
     },
     "bg": "#F7F3EA",
@@ -133,7 +133,7 @@ export const PALETTES = {
     "id": "alpineSilver",
     "mode": "light",
     "name": {
-      "tr": "Alp Gümüş",
+      "tr": "Alp GÃ¼mÃ¼ÅŸ",
       "en": "Alpine Silver"
     },
     "bg": "#F3F7F5",
@@ -157,7 +157,7 @@ export const PALETTES = {
     "id": "obsidianRed",
     "mode": "dark",
     "name": {
-      "tr": "Obsidyen Kırmızı",
+      "tr": "Obsidyen KÄ±rmÄ±zÄ±",
       "en": "Obsidian Red"
     },
     "bg": "#0D0507",
@@ -229,7 +229,7 @@ export const PALETTES = {
     "id": "sandstone",
     "mode": "light",
     "name": {
-      "tr": "Kumtaşı",
+      "tr": "KumtaÅŸÄ±",
       "en": "Sandstone"
     },
     "bg": "#FBF1DF",
@@ -267,3 +267,4 @@ export const THEME_IDS = [
 export function getPalette(id) {
   return PALETTES[id] || PALETTES.darkGold;
 }
+

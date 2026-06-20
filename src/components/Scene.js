@@ -1,4 +1,4 @@
-
+﻿
 import React, { useEffect, useRef } from 'react';
 import { Animated, Easing, View } from 'react-native';
 
@@ -72,3 +72,4 @@ export function Scene({ type = 'career', styles, large = false }) {
     </View>
   );
 }
+

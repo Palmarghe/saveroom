@@ -1,6 +1,6 @@
-# SaveRoom Mobile v5.6 GitHub Ready
+﻿# SaveRoom Mobile v5.6 GitHub Ready
 
-Bu paket GitHub'a yükleme ve GitHub Pages üzerinden Privacy Policy / Terms yayınlama için hazırlandı.
+Bu paket GitHub'a yÃ¼kleme ve GitHub Pages Ã¼zerinden Privacy Policy / Terms yayÄ±nlama iÃ§in hazÄ±rlandÄ±.
 
 ## Eklenenler
 
@@ -11,16 +11,17 @@ Bu paket GitHub'a yükleme ve GitHub Pages üzerinden Privacy Policy / Terms yay
 - `README_GITHUB_TR.md`
 - `GIT_COMMANDS_TR.md`
 
-## GitHub Pages URL örnekleri
+## GitHub Pages URL Ã¶rnekleri
 
-Repo adı `saveroom` olursa:
+Repo adÄ± `saveroom` olursa:
 
 - Privacy Policy: `https://KULLANICI_ADIN.github.io/saveroom/privacy.html`
 - Terms of Use: `https://KULLANICI_ADIN.github.io/saveroom/terms.html`
 
-## Sonraki adım
+## Sonraki adÄ±m
 
-1. GitHub'da `saveroom` repository oluştur.
-2. Bu klasörü git ile yükle.
-3. Settings → Pages → Deploy from branch → `main` / `/docs` seç.
-4. Oluşan URL'leri `app.json` ve `src/config/appConfig.js` içine yaz.
+1. GitHub'da `saveroom` repository oluÅŸtur.
+2. Bu klasÃ¶rÃ¼ git ile yÃ¼kle.
+3. Settings â†’ Pages â†’ Deploy from branch â†’ `main` / `/docs` seÃ§.
+4. OluÅŸan URL'leri `app.json` ve `src/config/appConfig.js` iÃ§ine yaz.
+

@@ -1,4 +1,4 @@
-# SaveRoom App Store Metadata - English
+﻿# SaveRoom App Store Metadata - English
 
 ## App name
 
@@ -46,3 +46,4 @@ Sports or Reference
 ## Suggested age rating
 
 General audience. The app does not include violence, gambling, open user-generated content, or social networking features.
+

@@ -1,7 +1,7 @@
-export const LEGAL_COPY = {
+﻿export const LEGAL_COPY = {
   tr: {
-    title: 'Bağımsızlık Notu',
-    text: 'SaveRoom bağımsız bir premium menajerlik rehberi uygulamasıdır. Football Manager, Sports Interactive veya SEGA ile bağlı değildir. Resmi logo, resmi veri tabanı veya scrape edilmiş oyun verisi kullanmaz.'
+    title: 'BaÄŸÄ±msÄ±zlÄ±k Notu',
+    text: 'SaveRoom baÄŸÄ±msÄ±z bir premium menajerlik rehberi uygulamasÄ±dÄ±r. Football Manager, Sports Interactive veya SEGA ile baÄŸlÄ± deÄŸildir. Resmi logo, resmi veri tabanÄ± veya scrape edilmiÅŸ oyun verisi kullanmaz.'
   },
   en: {
     title: 'Independence Notice',
@@ -12,3 +12,4 @@ export const LEGAL_COPY = {
 export function getLegalCopy(language = 'tr') {
   return LEGAL_COPY[language] || LEGAL_COPY.en;
 }
+

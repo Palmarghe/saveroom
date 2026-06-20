@@ -1,4 +1,4 @@
-export function createLocalAccount(profile) {
+﻿export function createLocalAccount(profile) {
   return {
     id: `local_${Date.now()}`,
     provider: 'local_demo',
@@ -14,3 +14,4 @@ export function getAccountLabel(account, language = 'tr') {
   if (account.provider === 'local_demo') return language === 'tr' ? 'Yerel demo hesap' : 'Local demo account';
   return account.provider;
 }
+

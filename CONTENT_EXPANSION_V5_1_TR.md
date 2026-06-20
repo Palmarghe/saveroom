@@ -1,138 +1,139 @@
-# SaveRoom v5.1 İçerik Genişletme
+﻿# SaveRoom v5.1 Ä°Ã§erik GeniÅŸletme
 
-Bu sürümde 20 karar departmanının her birine 5 rehber eklendi. Toplam içerik sayısı 100 rehbere çıkarıldı.
+Bu sÃ¼rÃ¼mde 20 karar departmanÄ±nÄ±n her birine 5 rehber eklendi. Toplam iÃ§erik sayÄ±sÄ± 100 rehbere Ã§Ä±karÄ±ldÄ±.
 
-Her rehber şu alanları içerir:
+Her rehber ÅŸu alanlarÄ± iÃ§erir:
 
-- Başlık
-- Özet
+- BaÅŸlÄ±k
+- Ã–zet
 - Detay
-- Risk / dikkat noktası
-- Pro içgörü
+- Risk / dikkat noktasÄ±
+- Pro iÃ§gÃ¶rÃ¼
 
-## Departman başına rehber listesi
+## Departman baÅŸÄ±na rehber listesi
 
-### Save Başlatma
-- İlk Save Kontrol Listesi
+### Save BaÅŸlatma
+- Ä°lk Save Kontrol Listesi
 - 3 Sezonluk Kariyer Hedefi
-- Zorluk Seviyesi Seçimi
-- Save Hikâyesi Oluşturma
-- İlk Gün Yapılacaklar
-### Takım Seçimi
-- Takım Seçerken 7 Kriter
-- Fallen Giant Seçimi
-- Alt Lig Kulübü Analizi
-- Genç Kadro Projesi
-- Lig Kuralları Kontrolü
+- Zorluk Seviyesi SeÃ§imi
+- Save HikÃ¢yesi OluÅŸturma
+- Ä°lk GÃ¼n YapÄ±lacaklar
+### TakÄ±m SeÃ§imi
+- TakÄ±m SeÃ§erken 7 Kriter
+- Fallen Giant SeÃ§imi
+- Alt Lig KulÃ¼bÃ¼ Analizi
+- GenÃ§ Kadro Projesi
+- Lig KurallarÄ± KontrolÃ¼
 ### Kadro Planlama
-- 3 Yıllık Kadro Omurgası
-- Yaş Piramidi Kontrolü
-- Rol Çakışması Analizi
-- Satılacak Oyuncu Listesi
-- Rotasyon Derinliği Planı
+- 3 YÄ±llÄ±k Kadro OmurgasÄ±
+- YaÅŸ Piramidi KontrolÃ¼
+- Rol Ã‡akÄ±ÅŸmasÄ± Analizi
+- SatÄ±lacak Oyuncu Listesi
+- Rotasyon DerinliÄŸi PlanÄ±
 ### Transfer Merkezi
-- Transfer Öncelik Sırası
-- İlk Para Hangi Role?
-- Kiralık Oyuncu Stratejisi
-- Fırsat Transferi Kontrolü
+- Transfer Ã–ncelik SÄ±rasÄ±
+- Ä°lk Para Hangi Role?
+- KiralÄ±k Oyuncu Stratejisi
+- FÄ±rsat Transferi KontrolÃ¼
 - Transfer Risk Matrisi
 ### Scouting Filtreleri
 - Wonderkid Arama Filtresi
 - Alt Lig Scout Filtresi
-- Sözleşmesi Biten Oyuncular
-- Rol Bazlı Tarama
-- Pazar Değeri Alarmı
-### Wonderkid & Gelişim
-- Genç Oyuncu Dakika Planı
+- SÃ¶zleÅŸmesi Biten Oyuncular
+- Rol BazlÄ± Tarama
+- Pazar DeÄŸeri AlarmÄ±
+### Wonderkid & GeliÅŸim
+- GenÃ§ Oyuncu Dakika PlanÄ±
 - Potansiyel mi Rol Uyumu mu?
-- Kiralık Gönderme Kararı
+- KiralÄ±k GÃ¶nderme KararÄ±
 - Mentor Grubu Kurma
-- Gelişim Riski Kontrolü
-### Taktik Odası
-- Taktiğim Neden Çalışmıyor?
-- Pres Ayarı Kontrolü
-- Geçiş Oyunu Planı
-- Rol Dengesi Haritası
+- GeliÅŸim Riski KontrolÃ¼
+### Taktik OdasÄ±
+- TaktiÄŸim Neden Ã‡alÄ±ÅŸmÄ±yor?
+- Pres AyarÄ± KontrolÃ¼
+- GeÃ§iÅŸ Oyunu PlanÄ±
+- Rol Dengesi HaritasÄ±
 - Plan B Taktik Kurulumu
-### Maç Günü
-- Çok Gol Yiyorum
+### MaÃ§ GÃ¼nÃ¼
+- Ã‡ok Gol Yiyorum
 - Topa Sahibim Ama Gol Yok
 - Son 20 Dakika Hamlesi
-- Rakip Blok Kırma
-- Kırmızı Kart Sonrası Plan
+- Rakip Blok KÄ±rma
+- KÄ±rmÄ±zÄ± Kart SonrasÄ± Plan
 ### Duran Toplar
-- Hücum Korner Planı
-- Savunma Korner Planı
-- Serbest Vuruş Rollerı
-- Taç Organizasyonu
-- Duran Top Risk Kontrolü
+- HÃ¼cum Korner PlanÄ±
+- Savunma Korner PlanÄ±
+- Serbest VuruÅŸ RollerÄ±
+- TaÃ§ Organizasyonu
+- Duran Top Risk KontrolÃ¼
 ### Antrenman
-- Haftalık Antrenman Önceliği
-- Genç Gelişim Programı
-- Yoğun Fikstürde Antrenman
-- Taktik Tanıdıklığı Artırma
-- Sakatlık Riskini Azaltma
-### Finans & Maaş
-- Maaş Bütçesi Kontrolü
-- Satış Zamanı Kararı
-- Transfer Bütçesi Dağıtımı
-- Finansal Fair Play Kontrolü
-- Maaş Tavanı Modeli
-### Sözleşmeler
-- Sözleşme Yenileme Kararı
-- Genç Oyuncu Kontratı
-- Yaşlı Oyuncu Uzatma Riski
+- HaftalÄ±k Antrenman Ã–nceliÄŸi
+- GenÃ§ GeliÅŸim ProgramÄ±
+- YoÄŸun FikstÃ¼rde Antrenman
+- Taktik TanÄ±dÄ±klÄ±ÄŸÄ± ArtÄ±rma
+- SakatlÄ±k Riskini Azaltma
+### Finans & MaaÅŸ
+- MaaÅŸ BÃ¼tÃ§esi KontrolÃ¼
+- SatÄ±ÅŸ ZamanÄ± KararÄ±
+- Transfer BÃ¼tÃ§esi DaÄŸÄ±tÄ±mÄ±
+- Finansal Fair Play KontrolÃ¼
+- MaaÅŸ TavanÄ± Modeli
+### SÃ¶zleÅŸmeler
+- SÃ¶zleÅŸme Yenileme KararÄ±
+- GenÃ§ Oyuncu KontratÄ±
+- YaÅŸlÄ± Oyuncu Uzatma Riski
 - Serbest Kalma Maddesi
-- Maaş Artışı Pazarlığı
+- MaaÅŸ ArtÄ±ÅŸÄ± PazarlÄ±ÄŸÄ±
 ### Personel
-- İlk Değişecek Personel
+- Ä°lk DeÄŸiÅŸecek Personel
 - Scout Ekibi Kurma
-- Antrenör Rol Dağılımı
+- AntrenÃ¶r Rol DaÄŸÄ±lÄ±mÄ±
 - Fizyo ve Spor Bilimci
-- Altyapı Sorumlusu Profili
-### Altyapı
-- Altyapıdan A Takıma Yol
-- Tesis Yatırımı Önceliği
-- Genç Oyuncu Seçme Kriteri
-- B Takım Kullanımı
-- Altyapı Challenge Planı
-### Moral & Takım Dinamiği
-- Moral Düşüşünü Durdur
-- Liderlik Grubu Yönetimi
-- Vaat Krizi Çözümü
+- AltyapÄ± Sorumlusu Profili
+### AltyapÄ±
+- AltyapÄ±dan A TakÄ±ma Yol
+- Tesis YatÄ±rÄ±mÄ± Ã–nceliÄŸi
+- GenÃ§ Oyuncu SeÃ§me Kriteri
+- B TakÄ±m KullanÄ±mÄ±
+- AltyapÄ± Challenge PlanÄ±
+### Moral & TakÄ±m DinamiÄŸi
+- Moral DÃ¼ÅŸÃ¼ÅŸÃ¼nÃ¼ Durdur
+- Liderlik Grubu YÃ¶netimi
+- Vaat Krizi Ã‡Ã¶zÃ¼mÃ¼
 - Yeni Transfer Uyumu
-- Soyunma Odası Dengesi
-### Sakatlık & Rotasyon
-- Yoğun Fikstür Rotasyonu
-- Sakatlık Sonrası Dönüş
-- Yorgunluk Alarmı
-- Rotasyon Hiyerarşisi
-- Genç Oyuncu Yük Kontrolü
+- Soyunma OdasÄ± Dengesi
+### SakatlÄ±k & Rotasyon
+- YoÄŸun FikstÃ¼r Rotasyonu
+- SakatlÄ±k SonrasÄ± DÃ¶nÃ¼ÅŸ
+- Yorgunluk AlarmÄ±
+- Rotasyon HiyerarÅŸisi
+- GenÃ§ Oyuncu YÃ¼k KontrolÃ¼
 ### Veri Analizi
-- xG ve Şut Kalitesi Okuma
-- Pas İlerlemesi Analizi
+- xG ve Åut Kalitesi Okuma
+- Pas Ä°lerlemesi Analizi
 - Pres Verisi Yorumu
-- Rakip Analiz Kartı
-- Trend mi Tesadüf mü?
-### Challenge Modları
-- Sadece Altyapı Challenge
+- Rakip Analiz KartÄ±
+- Trend mi TesadÃ¼f mÃ¼?
+### Challenge ModlarÄ±
+- Sadece AltyapÄ± Challenge
 - Moneyball Kariyer
 - Fallen Giant Kurtarma
-- Tek Ülke Transfer Kuralı
-- 5 Yıl Avrupa Planı
-### Lig / Ülke Rehberleri
-- Türkiye’den Avrupa’ya
-- İngiltere Alt Ligleri
-- İspanya Kayıt Kuralları
-- Almanya Genç Gelişimi
-- Güney Amerika Scout Pazarı
-### Kriz Çözüm Merkezi
-- 5 Maçlık Kriz Protokolü
+- Tek Ãœlke Transfer KuralÄ±
+- 5 YÄ±l Avrupa PlanÄ±
+### Lig / Ãœlke Rehberleri
+- TÃ¼rkiyeâ€™den Avrupaâ€™ya
+- Ä°ngiltere Alt Ligleri
+- Ä°spanya KayÄ±t KurallarÄ±
+- Almanya GenÃ§ GeliÅŸimi
+- GÃ¼ney Amerika Scout PazarÄ±
+### Kriz Ã‡Ã¶zÃ¼m Merkezi
+- 5 MaÃ§lÄ±k Kriz ProtokolÃ¼
 - Gol Atamama Krizi
-- Savunma Çöküşü
-- Takım Moral Krizi
-- Büyük Maç Sendromu
+- Savunma Ã‡Ã¶kÃ¼ÅŸÃ¼
+- TakÄ±m Moral Krizi
+- BÃ¼yÃ¼k MaÃ§ Sendromu
 
 ## Not
 
-Bu içerikler gerçek mağaza sürümünden önce editoryal kontrolden geçirilmeli; ancak artık uygulamanın omurgasında her departmanın pratik karşılığı vardır.
+Bu iÃ§erikler gerÃ§ek maÄŸaza sÃ¼rÃ¼mÃ¼nden Ã¶nce editoryal kontrolden geÃ§irilmeli; ancak artÄ±k uygulamanÄ±n omurgasÄ±nda her departmanÄ±n pratik karÅŸÄ±lÄ±ÄŸÄ± vardÄ±r.
+

@@ -1,4 +1,4 @@
-import { getDepartment } from './departments';
+﻿import { getDepartment } from './departments';
 import { pickLocalized } from './i18n';
 
 export const GUIDES = [
@@ -7,23 +7,23 @@ export const GUIDES = [
     "cat": "saveStart",
     "pro": false,
     "title": {
-      "tr": "İlk Save Kontrol Listesi",
+      "tr": "Ä°lk Save Kontrol Listesi",
       "en": "First Save Checklist"
     },
     "summary": {
-      "tr": "İlk Save Kontrol Listesi, Save Başlatma departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Ä°lk Save Kontrol Listesi, Save BaÅŸlatma departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "First Save Checklist helps you make a faster decision inside the Save Setup department."
     },
     "detail": {
-      "tr": "Save açmadan önce hedef, zorluk, sezon süresi ve kulüp beklentisini netleştir.",
+      "tr": "Save aÃ§madan Ã¶nce hedef, zorluk, sezon sÃ¼resi ve kulÃ¼p beklentisini netleÅŸtir.",
       "en": "Define goal, difficulty, season length and club expectation before starting."
     },
     "risk": {
-      "tr": "Bu kararı Save Başlatma bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Save BaÅŸlatma baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Save Setup context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -36,19 +36,19 @@ export const GUIDES = [
       "en": "3-Season Career Objective"
     },
     "summary": {
-      "tr": "3 Sezonluk Kariyer Hedefi, Save Başlatma departmanında hızlı karar vermek için kullanılır.",
+      "tr": "3 Sezonluk Kariyer Hedefi, Save BaÅŸlatma departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "3-Season Career Objective helps you make a faster decision inside the Save Setup department."
     },
     "detail": {
-      "tr": "İlk üç sezonu ayrı hedeflere bölerek save’in ömrünü ve yönünü belirle.",
+      "tr": "Ä°lk Ã¼Ã§ sezonu ayrÄ± hedeflere bÃ¶lerek saveâ€™in Ã¶mrÃ¼nÃ¼ ve yÃ¶nÃ¼nÃ¼ belirle.",
       "en": "Split the first three seasons into clear objectives."
     },
     "risk": {
-      "tr": "Bu kararı Save Başlatma bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Save BaÅŸlatma baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Save Setup context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -57,23 +57,23 @@ export const GUIDES = [
     "cat": "saveStart",
     "pro": false,
     "title": {
-      "tr": "Zorluk Seviyesi Seçimi",
+      "tr": "Zorluk Seviyesi SeÃ§imi",
       "en": "Difficulty Level Choice"
     },
     "summary": {
-      "tr": "Zorluk Seviyesi Seçimi, Save Başlatma departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Zorluk Seviyesi SeÃ§imi, Save BaÅŸlatma departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Difficulty Level Choice helps you make a faster decision inside the Save Setup department."
     },
     "detail": {
-      "tr": "Kariyerin eğlence mi meydan okuma mı olacağını kulüp profiline göre ayarla.",
+      "tr": "Kariyerin eÄŸlence mi meydan okuma mÄ± olacaÄŸÄ±nÄ± kulÃ¼p profiline gÃ¶re ayarla.",
       "en": "Match difficulty to club profile and desired challenge."
     },
     "risk": {
-      "tr": "Bu kararı Save Başlatma bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Save BaÅŸlatma baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Save Setup context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -82,23 +82,23 @@ export const GUIDES = [
     "cat": "saveStart",
     "pro": true,
     "title": {
-      "tr": "Save Hikâyesi Oluşturma",
+      "tr": "Save HikÃ¢yesi OluÅŸturma",
       "en": "Save Story Builder"
     },
     "summary": {
-      "tr": "Save Hikâyesi Oluşturma, Save Başlatma departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Save HikÃ¢yesi OluÅŸturma, Save BaÅŸlatma departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Save Story Builder helps you make a faster decision inside the Save Setup department."
     },
     "detail": {
-      "tr": "Kulübün neden seçildiğini ve başarı tanımını hikâyeleştir.",
+      "tr": "KulÃ¼bÃ¼n neden seÃ§ildiÄŸini ve baÅŸarÄ± tanÄ±mÄ±nÄ± hikÃ¢yeleÅŸtir.",
       "en": "Give the save a story and clear definition of success."
     },
     "risk": {
-      "tr": "Bu kararı Save Başlatma bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Save BaÅŸlatma baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Save Setup context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -107,23 +107,23 @@ export const GUIDES = [
     "cat": "saveStart",
     "pro": true,
     "title": {
-      "tr": "İlk Gün Yapılacaklar",
+      "tr": "Ä°lk GÃ¼n YapÄ±lacaklar",
       "en": "Day-One Actions"
     },
     "summary": {
-      "tr": "İlk Gün Yapılacaklar, Save Başlatma departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Ä°lk GÃ¼n YapÄ±lacaklar, Save BaÅŸlatma departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Day-One Actions helps you make a faster decision inside the Save Setup department."
     },
     "detail": {
-      "tr": "Kulübe girer girmez kontrol edilecek ilk yönetim adımlarını sırala.",
+      "tr": "KulÃ¼be girer girmez kontrol edilecek ilk yÃ¶netim adÄ±mlarÄ±nÄ± sÄ±rala.",
       "en": "List the first management checks after taking over."
     },
     "risk": {
-      "tr": "Bu kararı Save Başlatma bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Save BaÅŸlatma baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Save Setup context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -132,23 +132,23 @@ export const GUIDES = [
     "cat": "teamChoice",
     "pro": false,
     "title": {
-      "tr": "Takım Seçerken 7 Kriter",
+      "tr": "TakÄ±m SeÃ§erken 7 Kriter",
       "en": "7 Criteria for Choosing a Club"
     },
     "summary": {
-      "tr": "Takım Seçerken 7 Kriter, Takım Seçimi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "TakÄ±m SeÃ§erken 7 Kriter, TakÄ±m SeÃ§imi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "7 Criteria for Choosing a Club helps you make a faster decision inside the Team Selection department."
     },
     "detail": {
-      "tr": "Kulübü popülerliğe göre değil; bütçe, yaş, hedef, lig ve kadro yapısına göre değerlendir.",
+      "tr": "KulÃ¼bÃ¼ popÃ¼lerliÄŸe gÃ¶re deÄŸil; bÃ¼tÃ§e, yaÅŸ, hedef, lig ve kadro yapÄ±sÄ±na gÃ¶re deÄŸerlendir.",
       "en": "Evaluate clubs by budget, age, goal, league and squad structure."
     },
     "risk": {
-      "tr": "Bu kararı Takım Seçimi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± TakÄ±m SeÃ§imi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Team Selection context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -157,23 +157,23 @@ export const GUIDES = [
     "cat": "teamChoice",
     "pro": false,
     "title": {
-      "tr": "Fallen Giant Seçimi",
+      "tr": "Fallen Giant SeÃ§imi",
       "en": "Choosing a Fallen Giant"
     },
     "summary": {
-      "tr": "Fallen Giant Seçimi, Takım Seçimi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Fallen Giant SeÃ§imi, TakÄ±m SeÃ§imi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Choosing a Fallen Giant helps you make a faster decision inside the Team Selection department."
     },
     "detail": {
-      "tr": "Eski büyük kulüplerde beklenti baskısı, maaş yükü ve sabır süresini ölç.",
+      "tr": "Eski bÃ¼yÃ¼k kulÃ¼plerde beklenti baskÄ±sÄ±, maaÅŸ yÃ¼kÃ¼ ve sabÄ±r sÃ¼resini Ã¶lÃ§.",
       "en": "Measure pressure, wage burden and patience at fallen giants."
     },
     "risk": {
-      "tr": "Bu kararı Takım Seçimi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± TakÄ±m SeÃ§imi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Team Selection context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -182,23 +182,23 @@ export const GUIDES = [
     "cat": "teamChoice",
     "pro": false,
     "title": {
-      "tr": "Alt Lig Kulübü Analizi",
+      "tr": "Alt Lig KulÃ¼bÃ¼ Analizi",
       "en": "Lower-League Club Analysis"
     },
     "summary": {
-      "tr": "Alt Lig Kulübü Analizi, Takım Seçimi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Alt Lig KulÃ¼bÃ¼ Analizi, TakÄ±m SeÃ§imi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Lower-League Club Analysis helps you make a faster decision inside the Team Selection department."
     },
     "detail": {
-      "tr": "Alt ligde tesis, maaş bütçesi ve oyuncu pazarı erişimini karar kriteri yap.",
+      "tr": "Alt ligde tesis, maaÅŸ bÃ¼tÃ§esi ve oyuncu pazarÄ± eriÅŸimini karar kriteri yap.",
       "en": "Use facilities, wage budget and market access as criteria."
     },
     "risk": {
-      "tr": "Bu kararı Takım Seçimi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± TakÄ±m SeÃ§imi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Team Selection context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -207,23 +207,23 @@ export const GUIDES = [
     "cat": "teamChoice",
     "pro": true,
     "title": {
-      "tr": "Genç Kadro Projesi",
+      "tr": "GenÃ§ Kadro Projesi",
       "en": "Young Squad Project"
     },
     "summary": {
-      "tr": "Genç Kadro Projesi, Takım Seçimi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GenÃ§ Kadro Projesi, TakÄ±m SeÃ§imi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Young Squad Project helps you make a faster decision inside the Team Selection department."
     },
     "detail": {
-      "tr": "Genç kadrolarda süre, liderlik ve sabır gereksinimini hesapla.",
+      "tr": "GenÃ§ kadrolarda sÃ¼re, liderlik ve sabÄ±r gereksinimini hesapla.",
       "en": "Estimate minutes, leadership and patience needed for young squads."
     },
     "risk": {
-      "tr": "Bu kararı Takım Seçimi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± TakÄ±m SeÃ§imi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Team Selection context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -232,23 +232,23 @@ export const GUIDES = [
     "cat": "teamChoice",
     "pro": true,
     "title": {
-      "tr": "Lig Kuralları Kontrolü",
+      "tr": "Lig KurallarÄ± KontrolÃ¼",
       "en": "League Rules Check"
     },
     "summary": {
-      "tr": "Lig Kuralları Kontrolü, Takım Seçimi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Lig KurallarÄ± KontrolÃ¼, TakÄ±m SeÃ§imi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "League Rules Check helps you make a faster decision inside the Team Selection department."
     },
     "detail": {
-      "tr": "Yabancı sınırı, kayıt kuralı ve finans yapısını save öncesi incele.",
+      "tr": "YabancÄ± sÄ±nÄ±rÄ±, kayÄ±t kuralÄ± ve finans yapÄ±sÄ±nÄ± save Ã¶ncesi incele.",
       "en": "Check foreign limits, registration rules and finances before starting."
     },
     "risk": {
-      "tr": "Bu kararı Takım Seçimi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± TakÄ±m SeÃ§imi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Team Selection context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -257,23 +257,23 @@ export const GUIDES = [
     "cat": "squadPlan",
     "pro": false,
     "title": {
-      "tr": "3 Yıllık Kadro Omurgası",
+      "tr": "3 YÄ±llÄ±k Kadro OmurgasÄ±",
       "en": "3-Year Squad Spine"
     },
     "summary": {
-      "tr": "3 Yıllık Kadro Omurgası, Kadro Planlama departmanında hızlı karar vermek için kullanılır.",
+      "tr": "3 YÄ±llÄ±k Kadro OmurgasÄ±, Kadro Planlama departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "3-Year Squad Spine helps you make a faster decision inside the Squad Planning department."
     },
     "detail": {
-      "tr": "Her pozisyon için omurga, rotasyon ve satılabilir oyuncu ayrımı yap.",
+      "tr": "Her pozisyon iÃ§in omurga, rotasyon ve satÄ±labilir oyuncu ayrÄ±mÄ± yap.",
       "en": "Separate core, rotation and sellable players by position."
     },
     "risk": {
-      "tr": "Bu kararı Kadro Planlama bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kadro Planlama baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Squad Planning context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -282,23 +282,23 @@ export const GUIDES = [
     "cat": "squadPlan",
     "pro": false,
     "title": {
-      "tr": "Yaş Piramidi Kontrolü",
+      "tr": "YaÅŸ Piramidi KontrolÃ¼",
       "en": "Age Pyramid Check"
     },
     "summary": {
-      "tr": "Yaş Piramidi Kontrolü, Kadro Planlama departmanında hızlı karar vermek için kullanılır.",
+      "tr": "YaÅŸ Piramidi KontrolÃ¼, Kadro Planlama departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Age Pyramid Check helps you make a faster decision inside the Squad Planning department."
     },
     "detail": {
-      "tr": "Kadronun aynı anda yaşlanmasını önlemek için yaş dağılımını planla.",
+      "tr": "Kadronun aynÄ± anda yaÅŸlanmasÄ±nÄ± Ã¶nlemek iÃ§in yaÅŸ daÄŸÄ±lÄ±mÄ±nÄ± planla.",
       "en": "Plan age spread to avoid synchronized decline."
     },
     "risk": {
-      "tr": "Bu kararı Kadro Planlama bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kadro Planlama baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Squad Planning context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -307,23 +307,23 @@ export const GUIDES = [
     "cat": "squadPlan",
     "pro": false,
     "title": {
-      "tr": "Rol Çakışması Analizi",
+      "tr": "Rol Ã‡akÄ±ÅŸmasÄ± Analizi",
       "en": "Role Conflict Analysis"
     },
     "summary": {
-      "tr": "Rol Çakışması Analizi, Kadro Planlama departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Rol Ã‡akÄ±ÅŸmasÄ± Analizi, Kadro Planlama departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Role Conflict Analysis helps you make a faster decision inside the Squad Planning department."
     },
     "detail": {
-      "tr": "Aynı görevi isteyen oyuncuların kadro dengesini bozmasını engelle.",
+      "tr": "AynÄ± gÃ¶revi isteyen oyuncularÄ±n kadro dengesini bozmasÄ±nÄ± engelle.",
       "en": "Prevent role overlap from breaking squad balance."
     },
     "risk": {
-      "tr": "Bu kararı Kadro Planlama bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kadro Planlama baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Squad Planning context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -332,23 +332,23 @@ export const GUIDES = [
     "cat": "squadPlan",
     "pro": true,
     "title": {
-      "tr": "Satılacak Oyuncu Listesi",
+      "tr": "SatÄ±lacak Oyuncu Listesi",
       "en": "Sell List Builder"
     },
     "summary": {
-      "tr": "Satılacak Oyuncu Listesi, Kadro Planlama departmanında hızlı karar vermek için kullanılır.",
+      "tr": "SatÄ±lacak Oyuncu Listesi, Kadro Planlama departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Sell List Builder helps you make a faster decision inside the Squad Planning department."
     },
     "detail": {
-      "tr": "Değer kaybı başlamadan satılacak oyuncuları belirle.",
+      "tr": "DeÄŸer kaybÄ± baÅŸlamadan satÄ±lacak oyuncularÄ± belirle.",
       "en": "Identify players to sell before value drops."
     },
     "risk": {
-      "tr": "Bu kararı Kadro Planlama bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kadro Planlama baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Squad Planning context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -357,23 +357,23 @@ export const GUIDES = [
     "cat": "squadPlan",
     "pro": true,
     "title": {
-      "tr": "Rotasyon Derinliği Planı",
+      "tr": "Rotasyon DerinliÄŸi PlanÄ±",
       "en": "Rotation Depth Plan"
     },
     "summary": {
-      "tr": "Rotasyon Derinliği Planı, Kadro Planlama departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Rotasyon DerinliÄŸi PlanÄ±, Kadro Planlama departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Rotation Depth Plan helps you make a faster decision inside the Squad Planning department."
     },
     "detail": {
-      "tr": "Yoğun fikstürde hangi pozisyonların yedeklenmesi gerektiğini çıkar.",
+      "tr": "YoÄŸun fikstÃ¼rde hangi pozisyonlarÄ±n yedeklenmesi gerektiÄŸini Ã§Ä±kar.",
       "en": "Identify positions needing depth for congested schedules."
     },
     "risk": {
-      "tr": "Bu kararı Kadro Planlama bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kadro Planlama baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Squad Planning context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -382,23 +382,23 @@ export const GUIDES = [
     "cat": "transferHub",
     "pro": false,
     "title": {
-      "tr": "Transfer Öncelik Sırası",
+      "tr": "Transfer Ã–ncelik SÄ±rasÄ±",
       "en": "Transfer Priority Order"
     },
     "summary": {
-      "tr": "Transfer Öncelik Sırası, Transfer Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Transfer Ã–ncelik SÄ±rasÄ±, Transfer Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Transfer Priority Order helps you make a faster decision inside the Transfer Hub department."
     },
     "detail": {
-      "tr": "Transferleri isimle değil, kadro ihtiyacı ve etki sırasıyla planla.",
+      "tr": "Transferleri isimle deÄŸil, kadro ihtiyacÄ± ve etki sÄ±rasÄ±yla planla.",
       "en": "Plan transfers by squad need and impact, not names."
     },
     "risk": {
-      "tr": "Bu kararı Transfer Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Transfer Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Transfer Hub context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -407,23 +407,23 @@ export const GUIDES = [
     "cat": "transferHub",
     "pro": false,
     "title": {
-      "tr": "İlk Para Hangi Role?",
+      "tr": "Ä°lk Para Hangi Role?",
       "en": "Where Should the First Money Go?"
     },
     "summary": {
-      "tr": "İlk Para Hangi Role?, Transfer Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Ä°lk Para Hangi Role?, Transfer Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Where Should the First Money Go? helps you make a faster decision inside the Transfer Hub department."
     },
     "detail": {
-      "tr": "Kısıtlı bütçede en yüksek etki sağlayan rolü seç.",
+      "tr": "KÄ±sÄ±tlÄ± bÃ¼tÃ§ede en yÃ¼ksek etki saÄŸlayan rolÃ¼ seÃ§.",
       "en": "Pick the highest-impact role under budget constraints."
     },
     "risk": {
-      "tr": "Bu kararı Transfer Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Transfer Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Transfer Hub context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -432,23 +432,23 @@ export const GUIDES = [
     "cat": "transferHub",
     "pro": false,
     "title": {
-      "tr": "Kiralık Oyuncu Stratejisi",
+      "tr": "KiralÄ±k Oyuncu Stratejisi",
       "en": "Loan Player Strategy"
     },
     "summary": {
-      "tr": "Kiralık Oyuncu Stratejisi, Transfer Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "KiralÄ±k Oyuncu Stratejisi, Transfer Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Loan Player Strategy helps you make a faster decision inside the Transfer Hub department."
     },
     "detail": {
-      "tr": "Kiralıkları kısa vadeli etki ve maaş yüküne göre değerlendir.",
+      "tr": "KiralÄ±klarÄ± kÄ±sa vadeli etki ve maaÅŸ yÃ¼kÃ¼ne gÃ¶re deÄŸerlendir.",
       "en": "Judge loans by short-term impact and wage cost."
     },
     "risk": {
-      "tr": "Bu kararı Transfer Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Transfer Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Transfer Hub context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -457,23 +457,23 @@ export const GUIDES = [
     "cat": "transferHub",
     "pro": true,
     "title": {
-      "tr": "Fırsat Transferi Kontrolü",
+      "tr": "FÄ±rsat Transferi KontrolÃ¼",
       "en": "Value Deal Check"
     },
     "summary": {
-      "tr": "Fırsat Transferi Kontrolü, Transfer Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "FÄ±rsat Transferi KontrolÃ¼, Transfer Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Value Deal Check helps you make a faster decision inside the Transfer Hub department."
     },
     "detail": {
-      "tr": "Ucuz oyuncunun gerçekten ihtiyaç mı yoksa kalabalık mı yarattığını test et.",
+      "tr": "Ucuz oyuncunun gerÃ§ekten ihtiyaÃ§ mÄ± yoksa kalabalÄ±k mÄ± yarattÄ±ÄŸÄ±nÄ± test et.",
       "en": "Test whether a cheap player solves a need or creates clutter."
     },
     "risk": {
-      "tr": "Bu kararı Transfer Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Transfer Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Transfer Hub context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -486,19 +486,19 @@ export const GUIDES = [
       "en": "Transfer Risk Matrix"
     },
     "summary": {
-      "tr": "Transfer Risk Matrisi, Transfer Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Transfer Risk Matrisi, Transfer Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Transfer Risk Matrix helps you make a faster decision inside the Transfer Hub department."
     },
     "detail": {
-      "tr": "Yaş, maaş, sakatlık ve uyum riskini tek kararda birleştir.",
+      "tr": "YaÅŸ, maaÅŸ, sakatlÄ±k ve uyum riskini tek kararda birleÅŸtir.",
       "en": "Combine age, wage, injury and adaptation risk."
     },
     "risk": {
-      "tr": "Bu kararı Transfer Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Transfer Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Transfer Hub context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -511,19 +511,19 @@ export const GUIDES = [
       "en": "Wonderkid Search Filter"
     },
     "summary": {
-      "tr": "Wonderkid Arama Filtresi, Scouting Filtreleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Wonderkid Arama Filtresi, Scouting Filtreleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Wonderkid Search Filter helps you make a faster decision inside the Scouting Filters department."
     },
     "detail": {
-      "tr": "Genç oyuncuyu sadece potansiyelle değil rol ve süre planıyla ara.",
+      "tr": "GenÃ§ oyuncuyu sadece potansiyelle deÄŸil rol ve sÃ¼re planÄ±yla ara.",
       "en": "Search young players by role and minutes, not only potential."
     },
     "risk": {
-      "tr": "Bu kararı Scouting Filtreleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Scouting Filtreleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Scouting Filters context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -536,19 +536,19 @@ export const GUIDES = [
       "en": "Lower-League Scout Filter"
     },
     "summary": {
-      "tr": "Alt Lig Scout Filtresi, Scouting Filtreleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Alt Lig Scout Filtresi, Scouting Filtreleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Lower-League Scout Filter helps you make a faster decision inside the Scouting Filters department."
     },
     "detail": {
-      "tr": "Alt lig için fiziksel ve zihinsel taban özellikleri önceliklendir.",
+      "tr": "Alt lig iÃ§in fiziksel ve zihinsel taban Ã¶zellikleri Ã¶nceliklendir.",
       "en": "Prioritize baseline physical and mental traits for lower leagues."
     },
     "risk": {
-      "tr": "Bu kararı Scouting Filtreleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Scouting Filtreleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Scouting Filters context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -557,23 +557,23 @@ export const GUIDES = [
     "cat": "scouting",
     "pro": false,
     "title": {
-      "tr": "Sözleşmesi Biten Oyuncular",
+      "tr": "SÃ¶zleÅŸmesi Biten Oyuncular",
       "en": "Expiring Contract Search"
     },
     "summary": {
-      "tr": "Sözleşmesi Biten Oyuncular, Scouting Filtreleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "SÃ¶zleÅŸmesi Biten Oyuncular, Scouting Filtreleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Expiring Contract Search helps you make a faster decision inside the Scouting Filters department."
     },
     "detail": {
-      "tr": "Sözleşmesi biten oyuncuları maaş ve rol uyumuyla ele.",
+      "tr": "SÃ¶zleÅŸmesi biten oyuncularÄ± maaÅŸ ve rol uyumuyla ele.",
       "en": "Evaluate expiring contracts by wage and role fit."
     },
     "risk": {
-      "tr": "Bu kararı Scouting Filtreleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Scouting Filtreleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Scouting Filters context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -582,23 +582,23 @@ export const GUIDES = [
     "cat": "scouting",
     "pro": true,
     "title": {
-      "tr": "Rol Bazlı Tarama",
+      "tr": "Rol BazlÄ± Tarama",
       "en": "Role-Based Search"
     },
     "summary": {
-      "tr": "Rol Bazlı Tarama, Scouting Filtreleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Rol BazlÄ± Tarama, Scouting Filtreleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Role-Based Search helps you make a faster decision inside the Scouting Filters department."
     },
     "detail": {
-      "tr": "Her rol için aranacak 3-4 kritik özelliği belirle.",
+      "tr": "Her rol iÃ§in aranacak 3-4 kritik Ã¶zelliÄŸi belirle.",
       "en": "Define 3-4 key attributes per role."
     },
     "risk": {
-      "tr": "Bu kararı Scouting Filtreleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Scouting Filtreleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Scouting Filters context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -607,23 +607,23 @@ export const GUIDES = [
     "cat": "scouting",
     "pro": true,
     "title": {
-      "tr": "Pazar Değeri Alarmı",
+      "tr": "Pazar DeÄŸeri AlarmÄ±",
       "en": "Market Value Alert"
     },
     "summary": {
-      "tr": "Pazar Değeri Alarmı, Scouting Filtreleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Pazar DeÄŸeri AlarmÄ±, Scouting Filtreleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Market Value Alert helps you make a faster decision inside the Scouting Filters department."
     },
     "detail": {
-      "tr": "Değeri düşük ama rol uyumu yüksek oyuncuları yakala.",
+      "tr": "DeÄŸeri dÃ¼ÅŸÃ¼k ama rol uyumu yÃ¼ksek oyuncularÄ± yakala.",
       "en": "Find undervalued players with strong role fit."
     },
     "risk": {
-      "tr": "Bu kararı Scouting Filtreleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Scouting Filtreleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Scouting Filters context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -632,23 +632,23 @@ export const GUIDES = [
     "cat": "wonderkids",
     "pro": false,
     "title": {
-      "tr": "Genç Oyuncu Dakika Planı",
+      "tr": "GenÃ§ Oyuncu Dakika PlanÄ±",
       "en": "Young Player Minutes Plan"
     },
     "summary": {
-      "tr": "Genç Oyuncu Dakika Planı, Wonderkid & Gelişim departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GenÃ§ Oyuncu Dakika PlanÄ±, Wonderkid & GeliÅŸim departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Young Player Minutes Plan helps you make a faster decision inside the Wonderkids & Growth department."
     },
     "detail": {
-      "tr": "Gelişimin gerçek anahtarı olan maç süresini sezon içine dağıt.",
+      "tr": "GeliÅŸimin gerÃ§ek anahtarÄ± olan maÃ§ sÃ¼resini sezon iÃ§ine daÄŸÄ±t.",
       "en": "Plan match minutes as the real driver of development."
     },
     "risk": {
-      "tr": "Bu kararı Wonderkid & Gelişim bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Wonderkid & GeliÅŸim baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Wonderkids & Growth context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -661,19 +661,19 @@ export const GUIDES = [
       "en": "Potential or Role Fit?"
     },
     "summary": {
-      "tr": "Potansiyel mi Rol Uyumu mu?, Wonderkid & Gelişim departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Potansiyel mi Rol Uyumu mu?, Wonderkid & GeliÅŸim departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Potential or Role Fit? helps you make a faster decision inside the Wonderkids & Growth department."
     },
     "detail": {
-      "tr": "Yüksek potansiyelin taktiğine uymuyorsa değer kaybedebileceğini gör.",
+      "tr": "YÃ¼ksek potansiyelin taktiÄŸine uymuyorsa deÄŸer kaybedebileceÄŸini gÃ¶r.",
       "en": "Recognize when high potential fails due to poor role fit."
     },
     "risk": {
-      "tr": "Bu kararı Wonderkid & Gelişim bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Wonderkid & GeliÅŸim baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Wonderkids & Growth context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -682,23 +682,23 @@ export const GUIDES = [
     "cat": "wonderkids",
     "pro": false,
     "title": {
-      "tr": "Kiralık Gönderme Kararı",
+      "tr": "KiralÄ±k GÃ¶nderme KararÄ±",
       "en": "Loan Decision"
     },
     "summary": {
-      "tr": "Kiralık Gönderme Kararı, Wonderkid & Gelişim departmanında hızlı karar vermek için kullanılır.",
+      "tr": "KiralÄ±k GÃ¶nderme KararÄ±, Wonderkid & GeliÅŸim departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Loan Decision helps you make a faster decision inside the Wonderkids & Growth department."
     },
     "detail": {
-      "tr": "Genç oyuncunun kalması mı kiralanması mı gerektiğini belirle.",
+      "tr": "GenÃ§ oyuncunun kalmasÄ± mÄ± kiralanmasÄ± mÄ± gerektiÄŸini belirle.",
       "en": "Decide whether a prospect should stay or go on loan."
     },
     "risk": {
-      "tr": "Bu kararı Wonderkid & Gelişim bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Wonderkid & GeliÅŸim baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Wonderkids & Growth context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -711,19 +711,19 @@ export const GUIDES = [
       "en": "Mentoring Group Setup"
     },
     "summary": {
-      "tr": "Mentor Grubu Kurma, Wonderkid & Gelişim departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Mentor Grubu Kurma, Wonderkid & GeliÅŸim departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Mentoring Group Setup helps you make a faster decision inside the Wonderkids & Growth department."
     },
     "detail": {
-      "tr": "Kişilik ve liderliği genç gelişimine bağla.",
+      "tr": "KiÅŸilik ve liderliÄŸi genÃ§ geliÅŸimine baÄŸla.",
       "en": "Connect personality and leadership to development."
     },
     "risk": {
-      "tr": "Bu kararı Wonderkid & Gelişim bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Wonderkid & GeliÅŸim baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Wonderkids & Growth context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -732,23 +732,23 @@ export const GUIDES = [
     "cat": "wonderkids",
     "pro": true,
     "title": {
-      "tr": "Gelişim Riski Kontrolü",
+      "tr": "GeliÅŸim Riski KontrolÃ¼",
       "en": "Development Risk Check"
     },
     "summary": {
-      "tr": "Gelişim Riski Kontrolü, Wonderkid & Gelişim departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GeliÅŸim Riski KontrolÃ¼, Wonderkid & GeliÅŸim departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Development Risk Check helps you make a faster decision inside the Wonderkids & Growth department."
     },
     "detail": {
-      "tr": "Sakatlık, süre, tesis ve kişilik riskini birlikte değerlendir.",
+      "tr": "SakatlÄ±k, sÃ¼re, tesis ve kiÅŸilik riskini birlikte deÄŸerlendir.",
       "en": "Evaluate injury, minutes, facilities and personality together."
     },
     "risk": {
-      "tr": "Bu kararı Wonderkid & Gelişim bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Wonderkid & GeliÅŸim baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Wonderkids & Growth context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -757,23 +757,23 @@ export const GUIDES = [
     "cat": "tactics",
     "pro": false,
     "title": {
-      "tr": "Taktiğim Neden Çalışmıyor?",
+      "tr": "TaktiÄŸim Neden Ã‡alÄ±ÅŸmÄ±yor?",
       "en": "Why Is My Tactic Failing?"
     },
     "summary": {
-      "tr": "Taktiğim Neden Çalışmıyor?, Taktik Odası departmanında hızlı karar vermek için kullanılır.",
+      "tr": "TaktiÄŸim Neden Ã‡alÄ±ÅŸmÄ±yor?, Taktik OdasÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Why Is My Tactic Failing? helps you make a faster decision inside the Tactic Room department."
     },
     "detail": {
-      "tr": "Formasyona değil; rol dengesi, tempo ve savunma yüksekliğine bak.",
+      "tr": "Formasyona deÄŸil; rol dengesi, tempo ve savunma yÃ¼ksekliÄŸine bak.",
       "en": "Look beyond formation: roles, tempo and line height."
     },
     "risk": {
-      "tr": "Bu kararı Taktik Odası bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Taktik OdasÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Tactic Room context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -782,23 +782,23 @@ export const GUIDES = [
     "cat": "tactics",
     "pro": false,
     "title": {
-      "tr": "Pres Ayarı Kontrolü",
+      "tr": "Pres AyarÄ± KontrolÃ¼",
       "en": "Pressing Setup Check"
     },
     "summary": {
-      "tr": "Pres Ayarı Kontrolü, Taktik Odası departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Pres AyarÄ± KontrolÃ¼, Taktik OdasÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Pressing Setup Check helps you make a faster decision inside the Tactic Room department."
     },
     "detail": {
-      "tr": "Pres yoğunluğunu kondisyon, lig seviyesi ve savunma çizgisiyle eşleştir.",
+      "tr": "Pres yoÄŸunluÄŸunu kondisyon, lig seviyesi ve savunma Ã§izgisiyle eÅŸleÅŸtir.",
       "en": "Match pressing to condition, league level and defensive line."
     },
     "risk": {
-      "tr": "Bu kararı Taktik Odası bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Taktik OdasÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Tactic Room context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -807,23 +807,23 @@ export const GUIDES = [
     "cat": "tactics",
     "pro": false,
     "title": {
-      "tr": "Geçiş Oyunu Planı",
+      "tr": "GeÃ§iÅŸ Oyunu PlanÄ±",
       "en": "Transition Plan"
     },
     "summary": {
-      "tr": "Geçiş Oyunu Planı, Taktik Odası departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GeÃ§iÅŸ Oyunu PlanÄ±, Taktik OdasÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Transition Plan helps you make a faster decision inside the Tactic Room department."
     },
     "detail": {
-      "tr": "Topu kazanınca ve kaybedince takımın ne yapacağını netleştir.",
+      "tr": "Topu kazanÄ±nca ve kaybedince takÄ±mÄ±n ne yapacaÄŸÄ±nÄ± netleÅŸtir.",
       "en": "Define behavior after winning and losing the ball."
     },
     "risk": {
-      "tr": "Bu kararı Taktik Odası bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Taktik OdasÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Tactic Room context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -832,23 +832,23 @@ export const GUIDES = [
     "cat": "tactics",
     "pro": true,
     "title": {
-      "tr": "Rol Dengesi Haritası",
+      "tr": "Rol Dengesi HaritasÄ±",
       "en": "Role Balance Map"
     },
     "summary": {
-      "tr": "Rol Dengesi Haritası, Taktik Odası departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Rol Dengesi HaritasÄ±, Taktik OdasÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Role Balance Map helps you make a faster decision inside the Tactic Room department."
     },
     "detail": {
-      "tr": "Hücum eden, destekleyen ve güvence veren rolleri dengele.",
+      "tr": "HÃ¼cum eden, destekleyen ve gÃ¼vence veren rolleri dengele.",
       "en": "Balance attacking, supporting and securing roles."
     },
     "risk": {
-      "tr": "Bu kararı Taktik Odası bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Taktik OdasÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Tactic Room context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -861,19 +861,19 @@ export const GUIDES = [
       "en": "Plan B Setup"
     },
     "summary": {
-      "tr": "Plan B Taktik Kurulumu, Taktik Odası departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Plan B Taktik Kurulumu, Taktik OdasÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Plan B Setup helps you make a faster decision inside the Tactic Room department."
     },
     "detail": {
-      "tr": "Kötü giden maçta tamamen taktik değiştirmeden alternatif hazırla.",
+      "tr": "KÃ¶tÃ¼ giden maÃ§ta tamamen taktik deÄŸiÅŸtirmeden alternatif hazÄ±rla.",
       "en": "Prepare alternatives without rebuilding the whole tactic."
     },
     "risk": {
-      "tr": "Bu kararı Taktik Odası bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Taktik OdasÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Tactic Room context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -882,23 +882,23 @@ export const GUIDES = [
     "cat": "matchday",
     "pro": false,
     "title": {
-      "tr": "Çok Gol Yiyorum",
+      "tr": "Ã‡ok Gol Yiyorum",
       "en": "I Concede Too Many Goals"
     },
     "summary": {
-      "tr": "Çok Gol Yiyorum, Maç Günü departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Ã‡ok Gol Yiyorum, MaÃ§ GÃ¼nÃ¼ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "I Concede Too Many Goals helps you make a faster decision inside the Matchday department."
     },
     "detail": {
-      "tr": "Maç içinde savunma çizgisi, pres ve rol riskini hızlı kontrol et.",
+      "tr": "MaÃ§ iÃ§inde savunma Ã§izgisi, pres ve rol riskini hÄ±zlÄ± kontrol et.",
       "en": "Quickly check line, press and role risk in match."
     },
     "risk": {
-      "tr": "Bu kararı Maç Günü bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± MaÃ§ GÃ¼nÃ¼ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Matchday context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -911,19 +911,19 @@ export const GUIDES = [
       "en": "Possession Without Goals"
     },
     "summary": {
-      "tr": "Topa Sahibim Ama Gol Yok, Maç Günü departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Topa Sahibim Ama Gol Yok, MaÃ§ GÃ¼nÃ¼ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Possession Without Goals helps you make a faster decision inside the Matchday department."
     },
     "detail": {
-      "tr": "Topa sahip olup üretim yapamama sorununu şut kalitesiyle bağla.",
+      "tr": "Topa sahip olup Ã¼retim yapamama sorununu ÅŸut kalitesiyle baÄŸla.",
       "en": "Connect sterile possession to shot quality."
     },
     "risk": {
-      "tr": "Bu kararı Maç Günü bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± MaÃ§ GÃ¼nÃ¼ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Matchday context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -936,19 +936,19 @@ export const GUIDES = [
       "en": "Final 20-Minute Move"
     },
     "summary": {
-      "tr": "Son 20 Dakika Hamlesi, Maç Günü departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Son 20 Dakika Hamlesi, MaÃ§ GÃ¼nÃ¼ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Final 20-Minute Move helps you make a faster decision inside the Matchday department."
     },
     "detail": {
-      "tr": "Skora göre tempo, risk ve oyuncu değişikliği kararını ver.",
+      "tr": "Skora gÃ¶re tempo, risk ve oyuncu deÄŸiÅŸikliÄŸi kararÄ±nÄ± ver.",
       "en": "Choose tempo, risk and substitutions by score state."
     },
     "risk": {
-      "tr": "Bu kararı Maç Günü bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± MaÃ§ GÃ¼nÃ¼ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Matchday context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -957,23 +957,23 @@ export const GUIDES = [
     "cat": "matchday",
     "pro": true,
     "title": {
-      "tr": "Rakip Blok Kırma",
+      "tr": "Rakip Blok KÄ±rma",
       "en": "Breaking a Defensive Block"
     },
     "summary": {
-      "tr": "Rakip Blok Kırma, Maç Günü departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Rakip Blok KÄ±rma, MaÃ§ GÃ¼nÃ¼ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Breaking a Defensive Block helps you make a faster decision inside the Matchday department."
     },
     "detail": {
-      "tr": "Dar savunmaya karşı genişlik, koşu ve tempo çözümü üret.",
+      "tr": "Dar savunmaya karÅŸÄ± geniÅŸlik, koÅŸu ve tempo Ã§Ã¶zÃ¼mÃ¼ Ã¼ret.",
       "en": "Use width, runs and tempo against compact defenses."
     },
     "risk": {
-      "tr": "Bu kararı Maç Günü bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± MaÃ§ GÃ¼nÃ¼ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Matchday context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -982,23 +982,23 @@ export const GUIDES = [
     "cat": "matchday",
     "pro": true,
     "title": {
-      "tr": "Kırmızı Kart Sonrası Plan",
+      "tr": "KÄ±rmÄ±zÄ± Kart SonrasÄ± Plan",
       "en": "Red Card Response"
     },
     "summary": {
-      "tr": "Kırmızı Kart Sonrası Plan, Maç Günü departmanında hızlı karar vermek için kullanılır.",
+      "tr": "KÄ±rmÄ±zÄ± Kart SonrasÄ± Plan, MaÃ§ GÃ¼nÃ¼ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Red Card Response helps you make a faster decision inside the Matchday department."
     },
     "detail": {
-      "tr": "Eksik kalınca koruyacağın alanı ve feda edeceğin rolü seç.",
+      "tr": "Eksik kalÄ±nca koruyacaÄŸÄ±n alanÄ± ve feda edeceÄŸin rolÃ¼ seÃ§.",
       "en": "Choose what to protect and what to sacrifice after a red card."
     },
     "risk": {
-      "tr": "Bu kararı Maç Günü bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± MaÃ§ GÃ¼nÃ¼ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Matchday context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1007,23 +1007,23 @@ export const GUIDES = [
     "cat": "setpieces",
     "pro": false,
     "title": {
-      "tr": "Hücum Korner Planı",
+      "tr": "HÃ¼cum Korner PlanÄ±",
       "en": "Attacking Corner Plan"
     },
     "summary": {
-      "tr": "Hücum Korner Planı, Duran Toplar departmanında hızlı karar vermek için kullanılır.",
+      "tr": "HÃ¼cum Korner PlanÄ±, Duran Toplar departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Attacking Corner Plan helps you make a faster decision inside the Set Pieces department."
     },
     "detail": {
-      "tr": "Boy, güç ve ikinci top planıyla kornerden düzenli tehdit üret.",
+      "tr": "Boy, gÃ¼Ã§ ve ikinci top planÄ±yla kornerden dÃ¼zenli tehdit Ã¼ret.",
       "en": "Use height, strength and second balls to create threat."
     },
     "risk": {
-      "tr": "Bu kararı Duran Toplar bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Duran Toplar baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Set Pieces context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1032,23 +1032,23 @@ export const GUIDES = [
     "cat": "setpieces",
     "pro": false,
     "title": {
-      "tr": "Savunma Korner Planı",
+      "tr": "Savunma Korner PlanÄ±",
       "en": "Defensive Corner Plan"
     },
     "summary": {
-      "tr": "Savunma Korner Planı, Duran Toplar departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Savunma Korner PlanÄ±, Duran Toplar departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Defensive Corner Plan helps you make a faster decision inside the Set Pieces department."
     },
     "detail": {
-      "tr": "En iyi hava toplarını doğru bölgelere yerleştir.",
+      "tr": "En iyi hava toplarÄ±nÄ± doÄŸru bÃ¶lgelere yerleÅŸtir.",
       "en": "Place best aerial players in the right zones."
     },
     "risk": {
-      "tr": "Bu kararı Duran Toplar bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Duran Toplar baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Set Pieces context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1057,23 +1057,23 @@ export const GUIDES = [
     "cat": "setpieces",
     "pro": false,
     "title": {
-      "tr": "Serbest Vuruş Rollerı",
+      "tr": "Serbest VuruÅŸ RollerÄ±",
       "en": "Free-Kick Roles"
     },
     "summary": {
-      "tr": "Serbest Vuruş Rollerı, Duran Toplar departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Serbest VuruÅŸ RollerÄ±, Duran Toplar departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Free-Kick Roles helps you make a faster decision inside the Set Pieces department."
     },
     "detail": {
-      "tr": "Vurucu, koşucu ve seken top oyuncusunu ayır.",
+      "tr": "Vurucu, koÅŸucu ve seken top oyuncusunu ayÄ±r.",
       "en": "Separate taker, runner and rebound player."
     },
     "risk": {
-      "tr": "Bu kararı Duran Toplar bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Duran Toplar baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Set Pieces context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1082,23 +1082,23 @@ export const GUIDES = [
     "cat": "setpieces",
     "pro": true,
     "title": {
-      "tr": "Taç Organizasyonu",
+      "tr": "TaÃ§ Organizasyonu",
       "en": "Throw-In Organization"
     },
     "summary": {
-      "tr": "Taç Organizasyonu, Duran Toplar departmanında hızlı karar vermek için kullanılır.",
+      "tr": "TaÃ§ Organizasyonu, Duran Toplar departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Throw-In Organization helps you make a faster decision inside the Set Pieces department."
     },
     "detail": {
-      "tr": "Taçları top kaybı değil, güvenli çıkış aracı yap.",
+      "tr": "TaÃ§larÄ± top kaybÄ± deÄŸil, gÃ¼venli Ã§Ä±kÄ±ÅŸ aracÄ± yap.",
       "en": "Turn throw-ins into safe progression."
     },
     "risk": {
-      "tr": "Bu kararı Duran Toplar bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Duran Toplar baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Set Pieces context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1107,23 +1107,23 @@ export const GUIDES = [
     "cat": "setpieces",
     "pro": true,
     "title": {
-      "tr": "Duran Top Risk Kontrolü",
+      "tr": "Duran Top Risk KontrolÃ¼",
       "en": "Set-Piece Risk Check"
     },
     "summary": {
-      "tr": "Duran Top Risk Kontrolü, Duran Toplar departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Duran Top Risk KontrolÃ¼, Duran Toplar departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Set-Piece Risk Check helps you make a faster decision inside the Set Pieces department."
     },
     "detail": {
-      "tr": "Kontra yeme riskine karşı arkada kalan oyuncu sayısını ayarla.",
+      "tr": "Kontra yeme riskine karÅŸÄ± arkada kalan oyuncu sayÄ±sÄ±nÄ± ayarla.",
       "en": "Protect against counters with proper rest defense."
     },
     "risk": {
-      "tr": "Bu kararı Duran Toplar bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Duran Toplar baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Set Pieces context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1132,23 +1132,23 @@ export const GUIDES = [
     "cat": "training",
     "pro": false,
     "title": {
-      "tr": "Haftalık Antrenman Önceliği",
+      "tr": "HaftalÄ±k Antrenman Ã–nceliÄŸi",
       "en": "Weekly Training Priority"
     },
     "summary": {
-      "tr": "Haftalık Antrenman Önceliği, Antrenman departmanında hızlı karar vermek için kullanılır.",
+      "tr": "HaftalÄ±k Antrenman Ã–nceliÄŸi, Antrenman departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Weekly Training Priority helps you make a faster decision inside the Training department."
     },
     "detail": {
-      "tr": "Haftayı maç sayısı, taktik hedef ve fiziksel riskle planla.",
+      "tr": "HaftayÄ± maÃ§ sayÄ±sÄ±, taktik hedef ve fiziksel riskle planla.",
       "en": "Plan the week around fixtures, tactical goals and physical risk."
     },
     "risk": {
-      "tr": "Bu kararı Antrenman bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Antrenman baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Training context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1157,23 +1157,23 @@ export const GUIDES = [
     "cat": "training",
     "pro": false,
     "title": {
-      "tr": "Genç Gelişim Programı",
+      "tr": "GenÃ§ GeliÅŸim ProgramÄ±",
       "en": "Youth Development Program"
     },
     "summary": {
-      "tr": "Genç Gelişim Programı, Antrenman departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GenÃ§ GeliÅŸim ProgramÄ±, Antrenman departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Youth Development Program helps you make a faster decision inside the Training department."
     },
     "detail": {
-      "tr": "Genç oyuncunun rol, bireysel antrenman ve maç süresini bağla.",
+      "tr": "GenÃ§ oyuncunun rol, bireysel antrenman ve maÃ§ sÃ¼resini baÄŸla.",
       "en": "Connect role, individual training and minutes."
     },
     "risk": {
-      "tr": "Bu kararı Antrenman bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Antrenman baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Training context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1182,23 +1182,23 @@ export const GUIDES = [
     "cat": "training",
     "pro": false,
     "title": {
-      "tr": "Yoğun Fikstürde Antrenman",
+      "tr": "YoÄŸun FikstÃ¼rde Antrenman",
       "en": "Training During Congestion"
     },
     "summary": {
-      "tr": "Yoğun Fikstürde Antrenman, Antrenman departmanında hızlı karar vermek için kullanılır.",
+      "tr": "YoÄŸun FikstÃ¼rde Antrenman, Antrenman departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Training During Congestion helps you make a faster decision inside the Training department."
     },
     "detail": {
-      "tr": "Maç sayısı artınca yükü azaltıp keskinliği koru.",
+      "tr": "MaÃ§ sayÄ±sÄ± artÄ±nca yÃ¼kÃ¼ azaltÄ±p keskinliÄŸi koru.",
       "en": "Reduce load while keeping sharpness during congestion."
     },
     "risk": {
-      "tr": "Bu kararı Antrenman bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Antrenman baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Training context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1207,23 +1207,23 @@ export const GUIDES = [
     "cat": "training",
     "pro": true,
     "title": {
-      "tr": "Taktik Tanıdıklığı Artırma",
+      "tr": "Taktik TanÄ±dÄ±klÄ±ÄŸÄ± ArtÄ±rma",
       "en": "Tactical Familiarity Boost"
     },
     "summary": {
-      "tr": "Taktik Tanıdıklığı Artırma, Antrenman departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Taktik TanÄ±dÄ±klÄ±ÄŸÄ± ArtÄ±rma, Antrenman departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Tactical Familiarity Boost helps you make a faster decision inside the Training department."
     },
     "detail": {
-      "tr": "Yeni sistemi hızlı öğretmek için doğru modülleri seç.",
+      "tr": "Yeni sistemi hÄ±zlÄ± Ã¶ÄŸretmek iÃ§in doÄŸru modÃ¼lleri seÃ§.",
       "en": "Use modules that speed up tactical familiarity."
     },
     "risk": {
-      "tr": "Bu kararı Antrenman bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Antrenman baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Training context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1232,23 +1232,23 @@ export const GUIDES = [
     "cat": "training",
     "pro": true,
     "title": {
-      "tr": "Sakatlık Riskini Azaltma",
+      "tr": "SakatlÄ±k Riskini Azaltma",
       "en": "Injury Risk Reduction"
     },
     "summary": {
-      "tr": "Sakatlık Riskini Azaltma, Antrenman departmanında hızlı karar vermek için kullanılır.",
+      "tr": "SakatlÄ±k Riskini Azaltma, Antrenman departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Injury Risk Reduction helps you make a faster decision inside the Training department."
     },
     "detail": {
-      "tr": "Aşırı yük, düşük kondisyon ve yoğun maç takvimini dengele.",
+      "tr": "AÅŸÄ±rÄ± yÃ¼k, dÃ¼ÅŸÃ¼k kondisyon ve yoÄŸun maÃ§ takvimini dengele.",
       "en": "Balance overload, low condition and match load."
     },
     "risk": {
-      "tr": "Bu kararı Antrenman bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Antrenman baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Training context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1257,23 +1257,23 @@ export const GUIDES = [
     "cat": "finance",
     "pro": false,
     "title": {
-      "tr": "Maaş Bütçesi Kontrolü",
+      "tr": "MaaÅŸ BÃ¼tÃ§esi KontrolÃ¼",
       "en": "Wage Budget Control"
     },
     "summary": {
-      "tr": "Maaş Bütçesi Kontrolü, Finans & Maaş departmanında hızlı karar vermek için kullanılır.",
+      "tr": "MaaÅŸ BÃ¼tÃ§esi KontrolÃ¼, Finans & MaaÅŸ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Wage Budget Control helps you make a faster decision inside the Finance & Wages department."
     },
     "detail": {
-      "tr": "Maaş yapısını yıldız oyuncu, rotasyon ve genç oyuncu seviyelerine ayır.",
+      "tr": "MaaÅŸ yapÄ±sÄ±nÄ± yÄ±ldÄ±z oyuncu, rotasyon ve genÃ§ oyuncu seviyelerine ayÄ±r.",
       "en": "Split wage structure into star, rotation and prospect tiers."
     },
     "risk": {
-      "tr": "Bu kararı Finans & Maaş bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Finans & MaaÅŸ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Finance & Wages context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1282,23 +1282,23 @@ export const GUIDES = [
     "cat": "finance",
     "pro": false,
     "title": {
-      "tr": "Satış Zamanı Kararı",
+      "tr": "SatÄ±ÅŸ ZamanÄ± KararÄ±",
       "en": "When to Sell"
     },
     "summary": {
-      "tr": "Satış Zamanı Kararı, Finans & Maaş departmanında hızlı karar vermek için kullanılır.",
+      "tr": "SatÄ±ÅŸ ZamanÄ± KararÄ±, Finans & MaaÅŸ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "When to Sell helps you make a faster decision inside the Finance & Wages department."
     },
     "detail": {
-      "tr": "Değer düşmeden ve kontrat krizi başlamadan satış penceresini yakala.",
+      "tr": "DeÄŸer dÃ¼ÅŸmeden ve kontrat krizi baÅŸlamadan satÄ±ÅŸ penceresini yakala.",
       "en": "Sell before value drops and contract pressure rises."
     },
     "risk": {
-      "tr": "Bu kararı Finans & Maaş bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Finans & MaaÅŸ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Finance & Wages context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1307,23 +1307,23 @@ export const GUIDES = [
     "cat": "finance",
     "pro": false,
     "title": {
-      "tr": "Transfer Bütçesi Dağıtımı",
+      "tr": "Transfer BÃ¼tÃ§esi DaÄŸÄ±tÄ±mÄ±",
       "en": "Transfer Budget Allocation"
     },
     "summary": {
-      "tr": "Transfer Bütçesi Dağıtımı, Finans & Maaş departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Transfer BÃ¼tÃ§esi DaÄŸÄ±tÄ±mÄ±, Finans & MaaÅŸ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Transfer Budget Allocation helps you make a faster decision inside the Finance & Wages department."
     },
     "detail": {
-      "tr": "Bütçeyi tek yıldız yerine birden çok ihtiyaç arasında böl.",
+      "tr": "BÃ¼tÃ§eyi tek yÄ±ldÄ±z yerine birden Ã§ok ihtiyaÃ§ arasÄ±nda bÃ¶l.",
       "en": "Split budget across needs instead of one star."
     },
     "risk": {
-      "tr": "Bu kararı Finans & Maaş bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Finans & MaaÅŸ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Finance & Wages context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1332,23 +1332,23 @@ export const GUIDES = [
     "cat": "finance",
     "pro": true,
     "title": {
-      "tr": "Finansal Fair Play Kontrolü",
+      "tr": "Finansal Fair Play KontrolÃ¼",
       "en": "Financial Fair Play Check"
     },
     "summary": {
-      "tr": "Finansal Fair Play Kontrolü, Finans & Maaş departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Finansal Fair Play KontrolÃ¼, Finans & MaaÅŸ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Financial Fair Play Check helps you make a faster decision inside the Finance & Wages department."
     },
     "detail": {
-      "tr": "Harcamayı gelir ve maaş yüküyle birlikte oku.",
+      "tr": "HarcamayÄ± gelir ve maaÅŸ yÃ¼kÃ¼yle birlikte oku.",
       "en": "Read spending with revenue and wage load."
     },
     "risk": {
-      "tr": "Bu kararı Finans & Maaş bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Finans & MaaÅŸ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Finance & Wages context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1357,23 +1357,23 @@ export const GUIDES = [
     "cat": "finance",
     "pro": true,
     "title": {
-      "tr": "Maaş Tavanı Modeli",
+      "tr": "MaaÅŸ TavanÄ± Modeli",
       "en": "Wage Cap Model"
     },
     "summary": {
-      "tr": "Maaş Tavanı Modeli, Finans & Maaş departmanında hızlı karar vermek için kullanılır.",
+      "tr": "MaaÅŸ TavanÄ± Modeli, Finans & MaaÅŸ departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Wage Cap Model helps you make a faster decision inside the Finance & Wages department."
     },
     "detail": {
-      "tr": "Kulübün seviyesine uygun maaş sınırları belirle.",
+      "tr": "KulÃ¼bÃ¼n seviyesine uygun maaÅŸ sÄ±nÄ±rlarÄ± belirle.",
       "en": "Set wage ceilings appropriate to club level."
     },
     "risk": {
-      "tr": "Bu kararı Finans & Maaş bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Finans & MaaÅŸ baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Finance & Wages context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1382,23 +1382,23 @@ export const GUIDES = [
     "cat": "contracts",
     "pro": false,
     "title": {
-      "tr": "Sözleşme Yenileme Kararı",
+      "tr": "SÃ¶zleÅŸme Yenileme KararÄ±",
       "en": "Contract Renewal Decision"
     },
     "summary": {
-      "tr": "Sözleşme Yenileme Kararı, Sözleşmeler departmanında hızlı karar vermek için kullanılır.",
+      "tr": "SÃ¶zleÅŸme Yenileme KararÄ±, SÃ¶zleÅŸmeler departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Contract Renewal Decision helps you make a faster decision inside the Contracts department."
     },
     "detail": {
-      "tr": "Oyuncunun yaşı, rolü, maaşı ve satış değerini birlikte değerlendir.",
+      "tr": "Oyuncunun yaÅŸÄ±, rolÃ¼, maaÅŸÄ± ve satÄ±ÅŸ deÄŸerini birlikte deÄŸerlendir.",
       "en": "Evaluate age, role, wage and resale value together."
     },
     "risk": {
-      "tr": "Bu kararı Sözleşmeler bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SÃ¶zleÅŸmeler baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Contracts context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1407,23 +1407,23 @@ export const GUIDES = [
     "cat": "contracts",
     "pro": false,
     "title": {
-      "tr": "Genç Oyuncu Kontratı",
+      "tr": "GenÃ§ Oyuncu KontratÄ±",
       "en": "Prospect Contract"
     },
     "summary": {
-      "tr": "Genç Oyuncu Kontratı, Sözleşmeler departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GenÃ§ Oyuncu KontratÄ±, SÃ¶zleÅŸmeler departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Prospect Contract helps you make a faster decision inside the Contracts department."
     },
     "detail": {
-      "tr": "Genç oyuncuyu uzun vadeli ama esnek kontratla bağla.",
+      "tr": "GenÃ§ oyuncuyu uzun vadeli ama esnek kontratla baÄŸla.",
       "en": "Secure young players with long but flexible contracts."
     },
     "risk": {
-      "tr": "Bu kararı Sözleşmeler bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SÃ¶zleÅŸmeler baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Contracts context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1432,23 +1432,23 @@ export const GUIDES = [
     "cat": "contracts",
     "pro": false,
     "title": {
-      "tr": "Yaşlı Oyuncu Uzatma Riski",
+      "tr": "YaÅŸlÄ± Oyuncu Uzatma Riski",
       "en": "Veteran Extension Risk"
     },
     "summary": {
-      "tr": "Yaşlı Oyuncu Uzatma Riski, Sözleşmeler departmanında hızlı karar vermek için kullanılır.",
+      "tr": "YaÅŸlÄ± Oyuncu Uzatma Riski, SÃ¶zleÅŸmeler departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Veteran Extension Risk helps you make a faster decision inside the Contracts department."
     },
     "detail": {
-      "tr": "Performansı düşmeden önce sözleşme süresini sınırlı tut.",
+      "tr": "PerformansÄ± dÃ¼ÅŸmeden Ã¶nce sÃ¶zleÅŸme sÃ¼resini sÄ±nÄ±rlÄ± tut.",
       "en": "Limit extension length before decline begins."
     },
     "risk": {
-      "tr": "Bu kararı Sözleşmeler bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SÃ¶zleÅŸmeler baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Contracts context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1461,19 +1461,19 @@ export const GUIDES = [
       "en": "Release Clause Logic"
     },
     "summary": {
-      "tr": "Serbest Kalma Maddesi, Sözleşmeler departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Serbest Kalma Maddesi, SÃ¶zleÅŸmeler departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Release Clause Logic helps you make a faster decision inside the Contracts department."
     },
     "detail": {
-      "tr": "Maddenin kulübü koruyup korumadığını kontrol et.",
+      "tr": "Maddenin kulÃ¼bÃ¼ koruyup korumadÄ±ÄŸÄ±nÄ± kontrol et.",
       "en": "Check whether the clause protects the club."
     },
     "risk": {
-      "tr": "Bu kararı Sözleşmeler bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SÃ¶zleÅŸmeler baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Contracts context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1482,23 +1482,23 @@ export const GUIDES = [
     "cat": "contracts",
     "pro": true,
     "title": {
-      "tr": "Maaş Artışı Pazarlığı",
+      "tr": "MaaÅŸ ArtÄ±ÅŸÄ± PazarlÄ±ÄŸÄ±",
       "en": "Wage Rise Negotiation"
     },
     "summary": {
-      "tr": "Maaş Artışı Pazarlığı, Sözleşmeler departmanında hızlı karar vermek için kullanılır.",
+      "tr": "MaaÅŸ ArtÄ±ÅŸÄ± PazarlÄ±ÄŸÄ±, SÃ¶zleÅŸmeler departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Wage Rise Negotiation helps you make a faster decision inside the Contracts department."
     },
     "detail": {
-      "tr": "Maaş artışını rol ve takım statüsüyle sınırla.",
+      "tr": "MaaÅŸ artÄ±ÅŸÄ±nÄ± rol ve takÄ±m statÃ¼sÃ¼yle sÄ±nÄ±rla.",
       "en": "Limit wage rises by role and squad status."
     },
     "risk": {
-      "tr": "Bu kararı Sözleşmeler bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SÃ¶zleÅŸmeler baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Contracts context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1507,23 +1507,23 @@ export const GUIDES = [
     "cat": "staff",
     "pro": false,
     "title": {
-      "tr": "İlk Değişecek Personel",
+      "tr": "Ä°lk DeÄŸiÅŸecek Personel",
       "en": "First Staff Replacement"
     },
     "summary": {
-      "tr": "İlk Değişecek Personel, Personel departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Ä°lk DeÄŸiÅŸecek Personel, Personel departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "First Staff Replacement helps you make a faster decision inside the Staff department."
     },
     "detail": {
-      "tr": "Kulüp seviyesine göre en kritik personel açığını belirle.",
+      "tr": "KulÃ¼p seviyesine gÃ¶re en kritik personel aÃ§Ä±ÄŸÄ±nÄ± belirle.",
       "en": "Identify the most critical staff gap by club level."
     },
     "risk": {
-      "tr": "Bu kararı Personel bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Personel baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Staff context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1536,19 +1536,19 @@ export const GUIDES = [
       "en": "Building a Scout Team"
     },
     "summary": {
-      "tr": "Scout Ekibi Kurma, Personel departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Scout Ekibi Kurma, Personel departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Building a Scout Team helps you make a faster decision inside the Staff department."
     },
     "detail": {
-      "tr": "Bölge, yetenek değerlendirme ve bütçe bilgisine göre scout seç.",
+      "tr": "BÃ¶lge, yetenek deÄŸerlendirme ve bÃ¼tÃ§e bilgisine gÃ¶re scout seÃ§.",
       "en": "Choose scouts by region, judging ability and budget knowledge."
     },
     "risk": {
-      "tr": "Bu kararı Personel bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Personel baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Staff context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1557,23 +1557,23 @@ export const GUIDES = [
     "cat": "staff",
     "pro": false,
     "title": {
-      "tr": "Antrenör Rol Dağılımı",
+      "tr": "AntrenÃ¶r Rol DaÄŸÄ±lÄ±mÄ±",
       "en": "Coach Role Distribution"
     },
     "summary": {
-      "tr": "Antrenör Rol Dağılımı, Personel departmanında hızlı karar vermek için kullanılır.",
+      "tr": "AntrenÃ¶r Rol DaÄŸÄ±lÄ±mÄ±, Personel departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Coach Role Distribution helps you make a faster decision inside the Staff department."
     },
     "detail": {
-      "tr": "Antrenörleri yıldız sayısına değil sorumluluk paylaşımına göre değerlendir.",
+      "tr": "AntrenÃ¶rleri yÄ±ldÄ±z sayÄ±sÄ±na deÄŸil sorumluluk paylaÅŸÄ±mÄ±na gÃ¶re deÄŸerlendir.",
       "en": "Judge coaches by responsibility coverage, not just stars."
     },
     "risk": {
-      "tr": "Bu kararı Personel bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Personel baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Staff context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1586,19 +1586,19 @@ export const GUIDES = [
       "en": "Physio and Sports Scientist"
     },
     "summary": {
-      "tr": "Fizyo ve Spor Bilimci, Personel departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Fizyo ve Spor Bilimci, Personel departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Physio and Sports Scientist helps you make a faster decision inside the Staff department."
     },
     "detail": {
-      "tr": "Sakatlık riskini azaltacak sağlık departmanı kur.",
+      "tr": "SakatlÄ±k riskini azaltacak saÄŸlÄ±k departmanÄ± kur.",
       "en": "Build a medical department to reduce injury risk."
     },
     "risk": {
-      "tr": "Bu kararı Personel bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Personel baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Staff context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1607,23 +1607,23 @@ export const GUIDES = [
     "cat": "staff",
     "pro": true,
     "title": {
-      "tr": "Altyapı Sorumlusu Profili",
+      "tr": "AltyapÄ± Sorumlusu Profili",
       "en": "Head of Youth Development Profile"
     },
     "summary": {
-      "tr": "Altyapı Sorumlusu Profili, Personel departmanında hızlı karar vermek için kullanılır.",
+      "tr": "AltyapÄ± Sorumlusu Profili, Personel departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Head of Youth Development Profile helps you make a faster decision inside the Staff department."
     },
     "detail": {
-      "tr": "Genç girişlerinin karakterini ve profilini etkileyen kişiyi seç.",
+      "tr": "GenÃ§ giriÅŸlerinin karakterini ve profilini etkileyen kiÅŸiyi seÃ§.",
       "en": "Choose the person shaping youth intake profile."
     },
     "risk": {
-      "tr": "Bu kararı Personel bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Personel baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Staff context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1632,23 +1632,23 @@ export const GUIDES = [
     "cat": "academy",
     "pro": false,
     "title": {
-      "tr": "Altyapıdan A Takıma Yol",
+      "tr": "AltyapÄ±dan A TakÄ±ma Yol",
       "en": "Youth-to-First-Team Path"
     },
     "summary": {
-      "tr": "Altyapıdan A Takıma Yol, Altyapı departmanında hızlı karar vermek için kullanılır.",
+      "tr": "AltyapÄ±dan A TakÄ±ma Yol, AltyapÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Youth-to-First-Team Path helps you make a faster decision inside the Youth Academy department."
     },
     "detail": {
-      "tr": "Genç oyuncunun U19’dan A takıma geçişini aşamalı planla.",
+      "tr": "GenÃ§ oyuncunun U19â€™dan A takÄ±ma geÃ§iÅŸini aÅŸamalÄ± planla.",
       "en": "Plan staged progression from youth team to first team."
     },
     "risk": {
-      "tr": "Bu kararı Altyapı bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± AltyapÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Youth Academy context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1657,23 +1657,23 @@ export const GUIDES = [
     "cat": "academy",
     "pro": false,
     "title": {
-      "tr": "Tesis Yatırımı Önceliği",
+      "tr": "Tesis YatÄ±rÄ±mÄ± Ã–nceliÄŸi",
       "en": "Facility Investment Priority"
     },
     "summary": {
-      "tr": "Tesis Yatırımı Önceliği, Altyapı departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Tesis YatÄ±rÄ±mÄ± Ã–nceliÄŸi, AltyapÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Facility Investment Priority helps you make a faster decision inside the Youth Academy department."
     },
     "detail": {
-      "tr": "Hangi altyapı yatırımının save hedefine uygun olduğunu seç.",
+      "tr": "Hangi altyapÄ± yatÄ±rÄ±mÄ±nÄ±n save hedefine uygun olduÄŸunu seÃ§.",
       "en": "Choose the academy investment that fits the save goal."
     },
     "risk": {
-      "tr": "Bu kararı Altyapı bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± AltyapÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Youth Academy context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1682,23 +1682,23 @@ export const GUIDES = [
     "cat": "academy",
     "pro": false,
     "title": {
-      "tr": "Genç Oyuncu Seçme Kriteri",
+      "tr": "GenÃ§ Oyuncu SeÃ§me Kriteri",
       "en": "Prospect Selection Criteria"
     },
     "summary": {
-      "tr": "Genç Oyuncu Seçme Kriteri, Altyapı departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GenÃ§ Oyuncu SeÃ§me Kriteri, AltyapÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Prospect Selection Criteria helps you make a faster decision inside the Youth Academy department."
     },
     "detail": {
-      "tr": "Sadece potansiyele değil kişilik, rol ve fiziksel tabana bak.",
+      "tr": "Sadece potansiyele deÄŸil kiÅŸilik, rol ve fiziksel tabana bak.",
       "en": "Look beyond potential: personality, role and physical base."
     },
     "risk": {
-      "tr": "Bu kararı Altyapı bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± AltyapÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Youth Academy context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1707,23 +1707,23 @@ export const GUIDES = [
     "cat": "academy",
     "pro": true,
     "title": {
-      "tr": "B Takım Kullanımı",
+      "tr": "B TakÄ±m KullanÄ±mÄ±",
       "en": "Using the B Team"
     },
     "summary": {
-      "tr": "B Takım Kullanımı, Altyapı departmanında hızlı karar vermek için kullanılır.",
+      "tr": "B TakÄ±m KullanÄ±mÄ±, AltyapÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Using the B Team helps you make a faster decision inside the Youth Academy department."
     },
     "detail": {
-      "tr": "B takımı gelişim ve maç kondisyonu aracı olarak kullan.",
+      "tr": "B takÄ±mÄ± geliÅŸim ve maÃ§ kondisyonu aracÄ± olarak kullan.",
       "en": "Use B team as a development and sharpness tool."
     },
     "risk": {
-      "tr": "Bu kararı Altyapı bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± AltyapÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Youth Academy context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1732,23 +1732,23 @@ export const GUIDES = [
     "cat": "academy",
     "pro": true,
     "title": {
-      "tr": "Altyapı Challenge Planı",
+      "tr": "AltyapÄ± Challenge PlanÄ±",
       "en": "Youth Academy Challenge Plan"
     },
     "summary": {
-      "tr": "Altyapı Challenge Planı, Altyapı departmanında hızlı karar vermek için kullanılır.",
+      "tr": "AltyapÄ± Challenge PlanÄ±, AltyapÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Youth Academy Challenge Plan helps you make a faster decision inside the Youth Academy department."
     },
     "detail": {
-      "tr": "Altyapı odaklı save için sabır ve başarı kriterleri koy.",
+      "tr": "AltyapÄ± odaklÄ± save iÃ§in sabÄ±r ve baÅŸarÄ± kriterleri koy.",
       "en": "Set patience and success criteria for academy saves."
     },
     "risk": {
-      "tr": "Bu kararı Altyapı bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± AltyapÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Youth Academy context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1757,23 +1757,23 @@ export const GUIDES = [
     "cat": "dynamics",
     "pro": false,
     "title": {
-      "tr": "Moral Düşüşünü Durdur",
+      "tr": "Moral DÃ¼ÅŸÃ¼ÅŸÃ¼nÃ¼ Durdur",
       "en": "Stop a Morale Drop"
     },
     "summary": {
-      "tr": "Moral Düşüşünü Durdur, Moral & Takım Dinamiği departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Moral DÃ¼ÅŸÃ¼ÅŸÃ¼nÃ¼ Durdur, Moral & TakÄ±m DinamiÄŸi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Stop a Morale Drop helps you make a faster decision inside the Morale & Dynamics department."
     },
     "detail": {
-      "tr": "Kötü seride konuşma, rol ve kaptanlık etkisini birlikte kullan.",
+      "tr": "KÃ¶tÃ¼ seride konuÅŸma, rol ve kaptanlÄ±k etkisini birlikte kullan.",
       "en": "Use talks, roles and leadership together during bad runs."
     },
     "risk": {
-      "tr": "Bu kararı Moral & Takım Dinamiği bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Moral & TakÄ±m DinamiÄŸi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Morale & Dynamics context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1782,23 +1782,23 @@ export const GUIDES = [
     "cat": "dynamics",
     "pro": false,
     "title": {
-      "tr": "Liderlik Grubu Yönetimi",
+      "tr": "Liderlik Grubu YÃ¶netimi",
       "en": "Leadership Group Management"
     },
     "summary": {
-      "tr": "Liderlik Grubu Yönetimi, Moral & Takım Dinamiği departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Liderlik Grubu YÃ¶netimi, Moral & TakÄ±m DinamiÄŸi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Leadership Group Management helps you make a faster decision inside the Morale & Dynamics department."
     },
     "detail": {
-      "tr": "Takım içi liderleri vaat ve kriz yönetimine dahil et.",
+      "tr": "TakÄ±m iÃ§i liderleri vaat ve kriz yÃ¶netimine dahil et.",
       "en": "Use team leaders in promises and crisis handling."
     },
     "risk": {
-      "tr": "Bu kararı Moral & Takım Dinamiği bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Moral & TakÄ±m DinamiÄŸi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Morale & Dynamics context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1807,23 +1807,23 @@ export const GUIDES = [
     "cat": "dynamics",
     "pro": false,
     "title": {
-      "tr": "Vaat Krizi Çözümü",
+      "tr": "Vaat Krizi Ã‡Ã¶zÃ¼mÃ¼",
       "en": "Promise Crisis Solution"
     },
     "summary": {
-      "tr": "Vaat Krizi Çözümü, Moral & Takım Dinamiği departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Vaat Krizi Ã‡Ã¶zÃ¼mÃ¼, Moral & TakÄ±m DinamiÄŸi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Promise Crisis Solution helps you make a faster decision inside the Morale & Dynamics department."
     },
     "detail": {
-      "tr": "Tutamayacağın vaatleri büyümeden yönet.",
+      "tr": "TutamayacaÄŸÄ±n vaatleri bÃ¼yÃ¼meden yÃ¶net.",
       "en": "Manage risky promises before they escalate."
     },
     "risk": {
-      "tr": "Bu kararı Moral & Takım Dinamiği bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Moral & TakÄ±m DinamiÄŸi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Morale & Dynamics context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1836,19 +1836,19 @@ export const GUIDES = [
       "en": "New Signing Adaptation"
     },
     "summary": {
-      "tr": "Yeni Transfer Uyumu, Moral & Takım Dinamiği departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Yeni Transfer Uyumu, Moral & TakÄ±m DinamiÄŸi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "New Signing Adaptation helps you make a faster decision inside the Morale & Dynamics department."
     },
     "detail": {
-      "tr": "Yeni oyuncunun dil, kişilik ve süre ihtiyacını takip et.",
+      "tr": "Yeni oyuncunun dil, kiÅŸilik ve sÃ¼re ihtiyacÄ±nÄ± takip et.",
       "en": "Track language, personality and minutes needs."
     },
     "risk": {
-      "tr": "Bu kararı Moral & Takım Dinamiği bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Moral & TakÄ±m DinamiÄŸi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Morale & Dynamics context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1857,23 +1857,23 @@ export const GUIDES = [
     "cat": "dynamics",
     "pro": true,
     "title": {
-      "tr": "Soyunma Odası Dengesi",
+      "tr": "Soyunma OdasÄ± Dengesi",
       "en": "Dressing Room Balance"
     },
     "summary": {
-      "tr": "Soyunma Odası Dengesi, Moral & Takım Dinamiği departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Soyunma OdasÄ± Dengesi, Moral & TakÄ±m DinamiÄŸi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Dressing Room Balance helps you make a faster decision inside the Morale & Dynamics department."
     },
     "detail": {
-      "tr": "Yıldız statüsü, kaptanlık ve süre beklentilerini dengele.",
+      "tr": "YÄ±ldÄ±z statÃ¼sÃ¼, kaptanlÄ±k ve sÃ¼re beklentilerini dengele.",
       "en": "Balance star status, captaincy and minutes expectations."
     },
     "risk": {
-      "tr": "Bu kararı Moral & Takım Dinamiği bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Moral & TakÄ±m DinamiÄŸi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Morale & Dynamics context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1882,23 +1882,23 @@ export const GUIDES = [
     "cat": "injuryRotation",
     "pro": false,
     "title": {
-      "tr": "Yoğun Fikstür Rotasyonu",
+      "tr": "YoÄŸun FikstÃ¼r Rotasyonu",
       "en": "Heavy Fixture Rotation"
     },
     "summary": {
-      "tr": "Yoğun Fikstür Rotasyonu, Sakatlık & Rotasyon departmanında hızlı karar vermek için kullanılır.",
+      "tr": "YoÄŸun FikstÃ¼r Rotasyonu, SakatlÄ±k & Rotasyon departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Heavy Fixture Rotation helps you make a faster decision inside the Injuries & Rotation department."
     },
     "detail": {
-      "tr": "Oyuncuları sadece kondisyonla değil maç keskinliğiyle de değerlendir.",
+      "tr": "OyuncularÄ± sadece kondisyonla deÄŸil maÃ§ keskinliÄŸiyle de deÄŸerlendir.",
       "en": "Judge players by both condition and match sharpness."
     },
     "risk": {
-      "tr": "Bu kararı Sakatlık & Rotasyon bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SakatlÄ±k & Rotasyon baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Injuries & Rotation context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1907,23 +1907,23 @@ export const GUIDES = [
     "cat": "injuryRotation",
     "pro": false,
     "title": {
-      "tr": "Sakatlık Sonrası Dönüş",
+      "tr": "SakatlÄ±k SonrasÄ± DÃ¶nÃ¼ÅŸ",
       "en": "Return From Injury"
     },
     "summary": {
-      "tr": "Sakatlık Sonrası Dönüş, Sakatlık & Rotasyon departmanında hızlı karar vermek için kullanılır.",
+      "tr": "SakatlÄ±k SonrasÄ± DÃ¶nÃ¼ÅŸ, SakatlÄ±k & Rotasyon departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Return From Injury helps you make a faster decision inside the Injuries & Rotation department."
     },
     "detail": {
-      "tr": "Oyuncuyu ilk maçta tam yükle oynatma riskini azalt.",
+      "tr": "Oyuncuyu ilk maÃ§ta tam yÃ¼kle oynatma riskini azalt.",
       "en": "Reduce risk of full load immediately after injury."
     },
     "risk": {
-      "tr": "Bu kararı Sakatlık & Rotasyon bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SakatlÄ±k & Rotasyon baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Injuries & Rotation context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1932,23 +1932,23 @@ export const GUIDES = [
     "cat": "injuryRotation",
     "pro": false,
     "title": {
-      "tr": "Yorgunluk Alarmı",
+      "tr": "Yorgunluk AlarmÄ±",
       "en": "Fatigue Alert"
     },
     "summary": {
-      "tr": "Yorgunluk Alarmı, Sakatlık & Rotasyon departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Yorgunluk AlarmÄ±, SakatlÄ±k & Rotasyon departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Fatigue Alert helps you make a faster decision inside the Injuries & Rotation department."
     },
     "detail": {
-      "tr": "Aynı oyuncuya üst üste yük bindirmeyi erken fark et.",
+      "tr": "AynÄ± oyuncuya Ã¼st Ã¼ste yÃ¼k bindirmeyi erken fark et.",
       "en": "Spot repeated overload before injuries happen."
     },
     "risk": {
-      "tr": "Bu kararı Sakatlık & Rotasyon bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SakatlÄ±k & Rotasyon baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Injuries & Rotation context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1957,23 +1957,23 @@ export const GUIDES = [
     "cat": "injuryRotation",
     "pro": true,
     "title": {
-      "tr": "Rotasyon Hiyerarşisi",
+      "tr": "Rotasyon HiyerarÅŸisi",
       "en": "Rotation Hierarchy"
     },
     "summary": {
-      "tr": "Rotasyon Hiyerarşisi, Sakatlık & Rotasyon departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Rotasyon HiyerarÅŸisi, SakatlÄ±k & Rotasyon departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Rotation Hierarchy helps you make a faster decision inside the Injuries & Rotation department."
     },
     "detail": {
-      "tr": "Hangi oyuncunun hangi maçta dinleneceğini önceden belirle.",
+      "tr": "Hangi oyuncunun hangi maÃ§ta dinleneceÄŸini Ã¶nceden belirle.",
       "en": "Pre-plan who rests in which match."
     },
     "risk": {
-      "tr": "Bu kararı Sakatlık & Rotasyon bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SakatlÄ±k & Rotasyon baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Injuries & Rotation context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -1982,23 +1982,23 @@ export const GUIDES = [
     "cat": "injuryRotation",
     "pro": true,
     "title": {
-      "tr": "Genç Oyuncu Yük Kontrolü",
+      "tr": "GenÃ§ Oyuncu YÃ¼k KontrolÃ¼",
       "en": "Young Player Load Control"
     },
     "summary": {
-      "tr": "Genç Oyuncu Yük Kontrolü, Sakatlık & Rotasyon departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GenÃ§ Oyuncu YÃ¼k KontrolÃ¼, SakatlÄ±k & Rotasyon departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Young Player Load Control helps you make a faster decision inside the Injuries & Rotation department."
     },
     "detail": {
-      "tr": "Gençleri fazla maçla geliştirmeye çalışırken sakatlık riskini yönet.",
+      "tr": "GenÃ§leri fazla maÃ§la geliÅŸtirmeye Ã§alÄ±ÅŸÄ±rken sakatlÄ±k riskini yÃ¶net.",
       "en": "Avoid injury risk from overplaying prospects."
     },
     "risk": {
-      "tr": "Bu kararı Sakatlık & Rotasyon bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± SakatlÄ±k & Rotasyon baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Injuries & Rotation context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2007,23 +2007,23 @@ export const GUIDES = [
     "cat": "dataAnalysis",
     "pro": false,
     "title": {
-      "tr": "xG ve Şut Kalitesi Okuma",
+      "tr": "xG ve Åut Kalitesi Okuma",
       "en": "Reading xG and Shot Quality"
     },
     "summary": {
-      "tr": "xG ve Şut Kalitesi Okuma, Veri Analizi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "xG ve Åut Kalitesi Okuma, Veri Analizi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Reading xG and Shot Quality helps you make a faster decision inside the Data Analysis department."
     },
     "detail": {
-      "tr": "Skoru değil, pozisyon kalitesini ve tekrar eden eğilimleri yorumla.",
+      "tr": "Skoru deÄŸil, pozisyon kalitesini ve tekrar eden eÄŸilimleri yorumla.",
       "en": "Read chance quality and recurring patterns, not only score."
     },
     "risk": {
-      "tr": "Bu kararı Veri Analizi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Veri Analizi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Data Analysis context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2032,23 +2032,23 @@ export const GUIDES = [
     "cat": "dataAnalysis",
     "pro": false,
     "title": {
-      "tr": "Pas İlerlemesi Analizi",
+      "tr": "Pas Ä°lerlemesi Analizi",
       "en": "Progressive Passing Analysis"
     },
     "summary": {
-      "tr": "Pas İlerlemesi Analizi, Veri Analizi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Pas Ä°lerlemesi Analizi, Veri Analizi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Progressive Passing Analysis helps you make a faster decision inside the Data Analysis department."
     },
     "detail": {
-      "tr": "Topun gerçekten ileri taşınıp taşınmadığını kontrol et.",
+      "tr": "Topun gerÃ§ekten ileri taÅŸÄ±nÄ±p taÅŸÄ±nmadÄ±ÄŸÄ±nÄ± kontrol et.",
       "en": "Check whether the ball is actually progressing."
     },
     "risk": {
-      "tr": "Bu kararı Veri Analizi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Veri Analizi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Data Analysis context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2061,19 +2061,19 @@ export const GUIDES = [
       "en": "Pressing Data Interpretation"
     },
     "summary": {
-      "tr": "Pres Verisi Yorumu, Veri Analizi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Pres Verisi Yorumu, Veri Analizi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Pressing Data Interpretation helps you make a faster decision inside the Data Analysis department."
     },
     "detail": {
-      "tr": "Top kazanma bölgelerini taktik riskle ilişkilendir.",
+      "tr": "Top kazanma bÃ¶lgelerini taktik riskle iliÅŸkilendir.",
       "en": "Relate ball-winning zones to tactical risk."
     },
     "risk": {
-      "tr": "Bu kararı Veri Analizi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Veri Analizi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Data Analysis context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2082,23 +2082,23 @@ export const GUIDES = [
     "cat": "dataAnalysis",
     "pro": true,
     "title": {
-      "tr": "Rakip Analiz Kartı",
+      "tr": "Rakip Analiz KartÄ±",
       "en": "Opponent Analysis Card"
     },
     "summary": {
-      "tr": "Rakip Analiz Kartı, Veri Analizi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Rakip Analiz KartÄ±, Veri Analizi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Opponent Analysis Card helps you make a faster decision inside the Data Analysis department."
     },
     "detail": {
-      "tr": "Rakibin zayıf yönünü maç planına dönüştür.",
+      "tr": "Rakibin zayÄ±f yÃ¶nÃ¼nÃ¼ maÃ§ planÄ±na dÃ¶nÃ¼ÅŸtÃ¼r.",
       "en": "Turn opponent weakness into a match plan."
     },
     "risk": {
-      "tr": "Bu kararı Veri Analizi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Veri Analizi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Data Analysis context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2107,23 +2107,23 @@ export const GUIDES = [
     "cat": "dataAnalysis",
     "pro": true,
     "title": {
-      "tr": "Trend mi Tesadüf mü?",
+      "tr": "Trend mi TesadÃ¼f mÃ¼?",
       "en": "Trend or Noise?"
     },
     "summary": {
-      "tr": "Trend mi Tesadüf mü?, Veri Analizi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Trend mi TesadÃ¼f mÃ¼?, Veri Analizi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Trend or Noise? helps you make a faster decision inside the Data Analysis department."
     },
     "detail": {
-      "tr": "Tek maçlık veriyi sezon trendinden ayır.",
+      "tr": "Tek maÃ§lÄ±k veriyi sezon trendinden ayÄ±r.",
       "en": "Separate one-match data from season trend."
     },
     "risk": {
-      "tr": "Bu kararı Veri Analizi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Veri Analizi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Data Analysis context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2132,23 +2132,23 @@ export const GUIDES = [
     "cat": "challenges",
     "pro": false,
     "title": {
-      "tr": "Sadece Altyapı Challenge",
+      "tr": "Sadece AltyapÄ± Challenge",
       "en": "Youth Academy Only Challenge"
     },
     "summary": {
-      "tr": "Sadece Altyapı Challenge, Challenge Modları departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Sadece AltyapÄ± Challenge, Challenge ModlarÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Youth Academy Only Challenge helps you make a faster decision inside the Challenge Modes department."
     },
     "detail": {
-      "tr": "Transfer yapmadan gelişim ve sabır odaklı kariyer kur.",
+      "tr": "Transfer yapmadan geliÅŸim ve sabÄ±r odaklÄ± kariyer kur.",
       "en": "Build a patience and development career without transfers."
     },
     "risk": {
-      "tr": "Bu kararı Challenge Modları bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Challenge ModlarÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Challenge Modes context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2161,19 +2161,19 @@ export const GUIDES = [
       "en": "Moneyball Career"
     },
     "summary": {
-      "tr": "Moneyball Kariyer, Challenge Modları departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Moneyball Kariyer, Challenge ModlarÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Moneyball Career helps you make a faster decision inside the Challenge Modes department."
     },
     "detail": {
-      "tr": "İsim yerine değer, veri ve düşük maliyetli rol uyumuyla ilerle.",
+      "tr": "Ä°sim yerine deÄŸer, veri ve dÃ¼ÅŸÃ¼k maliyetli rol uyumuyla ilerle.",
       "en": "Progress through value, data and low-cost role fit."
     },
     "risk": {
-      "tr": "Bu kararı Challenge Modları bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Challenge ModlarÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Challenge Modes context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2186,19 +2186,19 @@ export const GUIDES = [
       "en": "Fallen Giant Rescue"
     },
     "summary": {
-      "tr": "Fallen Giant Kurtarma, Challenge Modları departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Fallen Giant Kurtarma, Challenge ModlarÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Fallen Giant Rescue helps you make a faster decision inside the Challenge Modes department."
     },
     "detail": {
-      "tr": "Büyük geçmişi olan kulübü finans ve kadro temizliğiyle ayağa kaldır.",
+      "tr": "BÃ¼yÃ¼k geÃ§miÅŸi olan kulÃ¼bÃ¼ finans ve kadro temizliÄŸiyle ayaÄŸa kaldÄ±r.",
       "en": "Revive a historic club through finance and squad cleanup."
     },
     "risk": {
-      "tr": "Bu kararı Challenge Modları bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Challenge ModlarÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Challenge Modes context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2207,23 +2207,23 @@ export const GUIDES = [
     "cat": "challenges",
     "pro": true,
     "title": {
-      "tr": "Tek Ülke Transfer Kuralı",
+      "tr": "Tek Ãœlke Transfer KuralÄ±",
       "en": "Single-Nation Transfer Rule"
     },
     "summary": {
-      "tr": "Tek Ülke Transfer Kuralı, Challenge Modları departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Tek Ãœlke Transfer KuralÄ±, Challenge ModlarÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Single-Nation Transfer Rule helps you make a faster decision inside the Challenge Modes department."
     },
     "detail": {
-      "tr": "Transfer havuzunu daraltarak save’e kimlik kazandır.",
+      "tr": "Transfer havuzunu daraltarak saveâ€™e kimlik kazandÄ±r.",
       "en": "Give identity by narrowing the transfer pool."
     },
     "risk": {
-      "tr": "Bu kararı Challenge Modları bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Challenge ModlarÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Challenge Modes context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2232,23 +2232,23 @@ export const GUIDES = [
     "cat": "challenges",
     "pro": true,
     "title": {
-      "tr": "5 Yıl Avrupa Planı",
+      "tr": "5 YÄ±l Avrupa PlanÄ±",
       "en": "5-Year Europe Plan"
     },
     "summary": {
-      "tr": "5 Yıl Avrupa Planı, Challenge Modları departmanında hızlı karar vermek için kullanılır.",
+      "tr": "5 YÄ±l Avrupa PlanÄ±, Challenge ModlarÄ± departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "5-Year Europe Plan helps you make a faster decision inside the Challenge Modes department."
     },
     "detail": {
-      "tr": "Orta seviye kulübü aşamalı Avrupa hedeflerine taşı.",
+      "tr": "Orta seviye kulÃ¼bÃ¼ aÅŸamalÄ± Avrupa hedeflerine taÅŸÄ±.",
       "en": "Move a mid-level club toward Europe step by step."
     },
     "risk": {
-      "tr": "Bu kararı Challenge Modları bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Challenge ModlarÄ± baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Challenge Modes context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2257,23 +2257,23 @@ export const GUIDES = [
     "cat": "leagueGuides",
     "pro": false,
     "title": {
-      "tr": "Türkiye’den Avrupa’ya",
+      "tr": "TÃ¼rkiyeâ€™den Avrupaâ€™ya",
       "en": "From Turkey to Europe"
     },
     "summary": {
-      "tr": "Türkiye’den Avrupa’ya, Lig / Ülke Rehberleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "TÃ¼rkiyeâ€™den Avrupaâ€™ya, Lig / Ãœlke Rehberleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "From Turkey to Europe helps you make a faster decision inside the League / Nation Guides department."
     },
     "detail": {
-      "tr": "Yabancı sınırı, maaş dengesi ve Avrupa gelirlerini birlikte planla.",
+      "tr": "YabancÄ± sÄ±nÄ±rÄ±, maaÅŸ dengesi ve Avrupa gelirlerini birlikte planla.",
       "en": "Plan foreign limits, wage balance and European income together."
     },
     "risk": {
-      "tr": "Bu kararı Lig / Ülke Rehberleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Lig / Ãœlke Rehberleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the League / Nation Guides context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2282,23 +2282,23 @@ export const GUIDES = [
     "cat": "leagueGuides",
     "pro": false,
     "title": {
-      "tr": "İngiltere Alt Ligleri",
+      "tr": "Ä°ngiltere Alt Ligleri",
       "en": "English Lower Leagues"
     },
     "summary": {
-      "tr": "İngiltere Alt Ligleri, Lig / Ülke Rehberleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Ä°ngiltere Alt Ligleri, Lig / Ãœlke Rehberleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "English Lower Leagues helps you make a faster decision inside the League / Nation Guides department."
     },
     "detail": {
-      "tr": "Fizik, tempo ve kiralık pazarı alt lig başarısında öne çıkar.",
+      "tr": "Fizik, tempo ve kiralÄ±k pazarÄ± alt lig baÅŸarÄ±sÄ±nda Ã¶ne Ã§Ä±kar.",
       "en": "Physicality, tempo and loans drive lower-league success."
     },
     "risk": {
-      "tr": "Bu kararı Lig / Ülke Rehberleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Lig / Ãœlke Rehberleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the League / Nation Guides context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2307,23 +2307,23 @@ export const GUIDES = [
     "cat": "leagueGuides",
     "pro": false,
     "title": {
-      "tr": "İspanya Kayıt Kuralları",
+      "tr": "Ä°spanya KayÄ±t KurallarÄ±",
       "en": "Spain Registration Rules"
     },
     "summary": {
-      "tr": "İspanya Kayıt Kuralları, Lig / Ülke Rehberleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Ä°spanya KayÄ±t KurallarÄ±, Lig / Ãœlke Rehberleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Spain Registration Rules helps you make a faster decision inside the League / Nation Guides department."
     },
     "detail": {
-      "tr": "Maaş limiti ve kayıt yönetimini transferden önce düşün.",
+      "tr": "MaaÅŸ limiti ve kayÄ±t yÃ¶netimini transferden Ã¶nce dÃ¼ÅŸÃ¼n.",
       "en": "Think wage limits and registration before transfers."
     },
     "risk": {
-      "tr": "Bu kararı Lig / Ülke Rehberleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Lig / Ãœlke Rehberleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the League / Nation Guides context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2332,23 +2332,23 @@ export const GUIDES = [
     "cat": "leagueGuides",
     "pro": true,
     "title": {
-      "tr": "Almanya Genç Gelişimi",
+      "tr": "Almanya GenÃ§ GeliÅŸimi",
       "en": "Germany Youth Development"
     },
     "summary": {
-      "tr": "Almanya Genç Gelişimi, Lig / Ülke Rehberleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Almanya GenÃ§ GeliÅŸimi, Lig / Ãœlke Rehberleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Germany Youth Development helps you make a faster decision inside the League / Nation Guides department."
     },
     "detail": {
-      "tr": "Tesis, süre ve lig yapısını genç gelişimiyle bağla.",
+      "tr": "Tesis, sÃ¼re ve lig yapÄ±sÄ±nÄ± genÃ§ geliÅŸimiyle baÄŸla.",
       "en": "Connect facilities, minutes and league structure to youth growth."
     },
     "risk": {
-      "tr": "Bu kararı Lig / Ülke Rehberleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Lig / Ãœlke Rehberleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the League / Nation Guides context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2357,23 +2357,23 @@ export const GUIDES = [
     "cat": "leagueGuides",
     "pro": true,
     "title": {
-      "tr": "Güney Amerika Scout Pazarı",
+      "tr": "GÃ¼ney Amerika Scout PazarÄ±",
       "en": "South America Scout Market"
     },
     "summary": {
-      "tr": "Güney Amerika Scout Pazarı, Lig / Ülke Rehberleri departmanında hızlı karar vermek için kullanılır.",
+      "tr": "GÃ¼ney Amerika Scout PazarÄ±, Lig / Ãœlke Rehberleri departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "South America Scout Market helps you make a faster decision inside the League / Nation Guides department."
     },
     "detail": {
-      "tr": "Potansiyel, fiyat ve adaptasyon riskini birlikte değerlendir.",
+      "tr": "Potansiyel, fiyat ve adaptasyon riskini birlikte deÄŸerlendir.",
       "en": "Balance potential, price and adaptation risk."
     },
     "risk": {
-      "tr": "Bu kararı Lig / Ülke Rehberleri bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Lig / Ãœlke Rehberleri baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the League / Nation Guides context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2382,23 +2382,23 @@ export const GUIDES = [
     "cat": "crisis",
     "pro": false,
     "title": {
-      "tr": "5 Maçlık Kriz Protokolü",
+      "tr": "5 MaÃ§lÄ±k Kriz ProtokolÃ¼",
       "en": "5-Match Crisis Protocol"
     },
     "summary": {
-      "tr": "5 Maçlık Kriz Protokolü, Kriz Çözüm Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "5 MaÃ§lÄ±k Kriz ProtokolÃ¼, Kriz Ã‡Ã¶zÃ¼m Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "5-Match Crisis Protocol helps you make a faster decision inside the Crisis Center department."
     },
     "detail": {
-      "tr": "Kötü seride taktiği yıkmadan riski azaltan plan uygula.",
+      "tr": "KÃ¶tÃ¼ seride taktiÄŸi yÄ±kmadan riski azaltan plan uygula.",
       "en": "Apply a risk-reduction plan without destroying the tactic."
     },
     "risk": {
-      "tr": "Bu kararı Kriz Çözüm Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kriz Ã‡Ã¶zÃ¼m Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Crisis Center context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2411,19 +2411,19 @@ export const GUIDES = [
       "en": "Scoring Drought Crisis"
     },
     "summary": {
-      "tr": "Gol Atamama Krizi, Kriz Çözüm Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Gol Atamama Krizi, Kriz Ã‡Ã¶zÃ¼m Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Scoring Drought Crisis helps you make a faster decision inside the Crisis Center department."
     },
     "detail": {
-      "tr": "Şut kalitesi, forvet rolü ve destek koşularını kontrol et.",
+      "tr": "Åut kalitesi, forvet rolÃ¼ ve destek koÅŸularÄ±nÄ± kontrol et.",
       "en": "Check shot quality, striker role and support runs."
     },
     "risk": {
-      "tr": "Bu kararı Kriz Çözüm Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kriz Ã‡Ã¶zÃ¼m Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Crisis Center context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2432,23 +2432,23 @@ export const GUIDES = [
     "cat": "crisis",
     "pro": false,
     "title": {
-      "tr": "Savunma Çöküşü",
+      "tr": "Savunma Ã‡Ã¶kÃ¼ÅŸÃ¼",
       "en": "Defensive Collapse"
     },
     "summary": {
-      "tr": "Savunma Çöküşü, Kriz Çözüm Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "Savunma Ã‡Ã¶kÃ¼ÅŸÃ¼, Kriz Ã‡Ã¶zÃ¼m Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Defensive Collapse helps you make a faster decision inside the Crisis Center department."
     },
     "detail": {
-      "tr": "Çizgi, pres, bek rolleri ve orta saha güvenliğini sırayla test et.",
+      "tr": "Ã‡izgi, pres, bek rolleri ve orta saha gÃ¼venliÄŸini sÄ±rayla test et.",
       "en": "Test line, press, fullbacks and midfield security in order."
     },
     "risk": {
-      "tr": "Bu kararı Kriz Çözüm Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kriz Ã‡Ã¶zÃ¼m Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Crisis Center context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2457,23 +2457,23 @@ export const GUIDES = [
     "cat": "crisis",
     "pro": true,
     "title": {
-      "tr": "Takım Moral Krizi",
+      "tr": "TakÄ±m Moral Krizi",
       "en": "Team Morale Crisis"
     },
     "summary": {
-      "tr": "Takım Moral Krizi, Kriz Çözüm Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "TakÄ±m Moral Krizi, Kriz Ã‡Ã¶zÃ¼m Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Team Morale Crisis helps you make a faster decision inside the Crisis Center department."
     },
     "detail": {
-      "tr": "Konuşma, kaptanlık ve kolay maç planıyla güveni geri kazan.",
+      "tr": "KonuÅŸma, kaptanlÄ±k ve kolay maÃ§ planÄ±yla gÃ¼veni geri kazan.",
       "en": "Use talks, leadership and easier match plans to rebuild confidence."
     },
     "risk": {
-      "tr": "Bu kararı Kriz Çözüm Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kriz Ã‡Ã¶zÃ¼m Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Crisis Center context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   },
@@ -2482,23 +2482,23 @@ export const GUIDES = [
     "cat": "crisis",
     "pro": true,
     "title": {
-      "tr": "Büyük Maç Sendromu",
+      "tr": "BÃ¼yÃ¼k MaÃ§ Sendromu",
       "en": "Big Match Problem"
     },
     "summary": {
-      "tr": "Büyük Maç Sendromu, Kriz Çözüm Merkezi departmanında hızlı karar vermek için kullanılır.",
+      "tr": "BÃ¼yÃ¼k MaÃ§ Sendromu, Kriz Ã‡Ã¶zÃ¼m Merkezi departmanÄ±nda hÄ±zlÄ± karar vermek iÃ§in kullanÄ±lÄ±r.",
       "en": "Big Match Problem helps you make a faster decision inside the Crisis Center department."
     },
     "detail": {
-      "tr": "Güçlü rakiplere karşı risk seviyesini ve geçiş savunmasını ayarla.",
+      "tr": "GÃ¼Ã§lÃ¼ rakiplere karÅŸÄ± risk seviyesini ve geÃ§iÅŸ savunmasÄ±nÄ± ayarla.",
       "en": "Adjust risk and rest defense against stronger opponents."
     },
     "risk": {
-      "tr": "Bu kararı Kriz Çözüm Merkezi bağlamından koparırsan planın diğer alanlarıyla çelişebilir.",
+      "tr": "Bu kararÄ± Kriz Ã‡Ã¶zÃ¼m Merkezi baÄŸlamÄ±ndan koparÄ±rsan planÄ±n diÄŸer alanlarÄ±yla Ã§eliÅŸebilir.",
       "en": "If this decision is detached from the Crisis Center context, it can conflict with the rest of the plan."
     },
     "insight": {
-      "tr": "Pro kullanımda bu rehber Planlarım ekranında sezon hedefi, not ve takip aksiyonuyla birlikte kullanılmalı.",
+      "tr": "Pro kullanÄ±mda bu rehber PlanlarÄ±m ekranÄ±nda sezon hedefi, not ve takip aksiyonuyla birlikte kullanÄ±lmalÄ±.",
       "en": "In Pro usage, this guide should be paired with a season objective, note and follow-up action in Plans."
     }
   }
@@ -2534,3 +2534,4 @@ export function searchGuides(query, language) {
     return haystack.includes(q);
   });
 }
+

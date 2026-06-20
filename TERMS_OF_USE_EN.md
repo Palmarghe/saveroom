@@ -1,4 +1,4 @@
-# SaveRoom Terms of Use
+﻿# SaveRoom Terms of Use
 
 Last updated: 2026-06-20
 
@@ -26,7 +26,7 @@ Users agree to use the app for lawful and reasonable purposes. Users may not red
 
 ## Limitation of liability
 
-SaveRoom does not guarantee that its guides will produce the same result for every user. The app is provided “as is.”
+SaveRoom does not guarantee that its guides will produce the same result for every user. The app is provided â€œas is.â€
 
 ## Changes
 
@@ -34,4 +34,5 @@ These terms may be updated over time. The latest version will be published in-ap
 
 ## Contact
 
-Support email: TODO_SUPPORT_EMAIL
+Support email: recepkaanerkay@gmail.com
+

@@ -1,35 +1,35 @@
-# SaveRoom App Store Metadata - Türkçe
+﻿# SaveRoom App Store Metadata - TÃ¼rkÃ§e
 
-## Uygulama adı
+## Uygulama adÄ±
 
 SaveRoom
 
-## Alt başlık
+## Alt baÅŸlÄ±k
 
 Save planlama ve menajerlik rehberi
 
-## Kısa tanıtım
+## KÄ±sa tanÄ±tÄ±m
 
-SaveRoom, menajerlik oyunlarında kariyer planı, transfer, taktik, scouting, finans ve maç günü kararlarını tek bir düzenli odada toplar.
+SaveRoom, menajerlik oyunlarÄ±nda kariyer planÄ±, transfer, taktik, scouting, finans ve maÃ§ gÃ¼nÃ¼ kararlarÄ±nÄ± tek bir dÃ¼zenli odada toplar.
 
-## Açıklama
+## AÃ§Ä±klama
 
-SaveRoom, menajerlik kariyerini daha sistemli planlamak isteyen kullanıcılar için geliştirilmiş bağımsız bir premium rehber ve save planlama uygulamasıdır.
+SaveRoom, menajerlik kariyerini daha sistemli planlamak isteyen kullanÄ±cÄ±lar iÃ§in geliÅŸtirilmiÅŸ baÄŸÄ±msÄ±z bir premium rehber ve save planlama uygulamasÄ±dÄ±r.
 
-Uygulama; takım seçimi, kadro planlama, transfer öncelikleri, taktik sorunları, scouting filtreleri, finans yönetimi, altyapı gelişimi, maç günü kararları ve kriz çözüm süreçlerini ayrı karar departmanları halinde düzenler.
+Uygulama; takÄ±m seÃ§imi, kadro planlama, transfer Ã¶ncelikleri, taktik sorunlarÄ±, scouting filtreleri, finans yÃ¶netimi, altyapÄ± geliÅŸimi, maÃ§ gÃ¼nÃ¼ kararlarÄ± ve kriz Ã§Ã¶zÃ¼m sÃ¼reÃ§lerini ayrÄ± karar departmanlarÄ± halinde dÃ¼zenler.
 
-Öne çıkan özellikler:
+Ã–ne Ã§Ä±kan Ã¶zellikler:
 
-- Save Wizard ile kariyer fikri üret
-- 20 karar departmanında rehberleri keşfet
-- 100+ tutarlı rehber içeriği
-- Planlarım ekranında sezon hedeflerini takip et
+- Save Wizard ile kariyer fikri Ã¼ret
+- 20 karar departmanÄ±nda rehberleri keÅŸfet
+- 100+ tutarlÄ± rehber iÃ§eriÄŸi
+- PlanlarÄ±m ekranÄ±nda sezon hedeflerini takip et
 - Favori rehberlerini sakla
-- 10 premium tema arasında seçim yap
-- Türkçe ve İngilizce üretim dili
-- Bağımsız ve resmi veri kullanmayan rehber yapısı
+- 10 premium tema arasÄ±nda seÃ§im yap
+- TÃ¼rkÃ§e ve Ä°ngilizce Ã¼retim dili
+- BaÄŸÄ±msÄ±z ve resmi veri kullanmayan rehber yapÄ±sÄ±
 
-SaveRoom; Football Manager, Sports Interactive veya SEGA ile bağlı, sponsorlu ya da onaylı değildir. Resmi logo, resmi veri tabanı veya scrape edilmiş oyun verisi kullanmaz.
+SaveRoom; Football Manager, Sports Interactive veya SEGA ile baÄŸlÄ±, sponsorlu ya da onaylÄ± deÄŸildir. Resmi logo, resmi veri tabanÄ± veya scrape edilmiÅŸ oyun verisi kullanmaz.
 
 ## Anahtar kelimeler
 
@@ -37,12 +37,13 @@ menajerlik,save,football manager,taktik,transfer,scouting,kariyer,rehber,planlam
 
 ## Promosyon metni
 
-Save’ini rastgele değil, sistemli planla.
+Saveâ€™ini rastgele deÄŸil, sistemli planla.
 
-## Kategori önerisi
+## Kategori Ã¶nerisi
 
 Sports veya Reference
 
-## Yaş derecelendirmesi önerisi
+## YaÅŸ derecelendirmesi Ã¶nerisi
 
-Genel kitle. Uygulama şiddet, kumar, kullanıcı üretimli açık içerik veya sosyal ağ içermez.
+Genel kitle. Uygulama ÅŸiddet, kumar, kullanÄ±cÄ± Ã¼retimli aÃ§Ä±k iÃ§erik veya sosyal aÄŸ iÃ§ermez.
+

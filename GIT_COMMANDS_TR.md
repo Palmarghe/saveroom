@@ -1,8 +1,8 @@
-# Git Komutları
+﻿# Git KomutlarÄ±
 
-Aşağıdaki komutlarda `KULLANICI_ADIN` kısmını GitHub kullanıcı adınla değiştir.
+AÅŸaÄŸÄ±daki komutlarda `KULLANICI_ADIN` kÄ±smÄ±nÄ± GitHub kullanÄ±cÄ± adÄ±nla deÄŸiÅŸtir.
 
-## İlk yükleme
+## Ä°lk yÃ¼kleme
 
 ```bash
 git init
@@ -13,7 +13,7 @@ git remote add origin https://github.com/KULLANICI_ADIN/saveroom.git
 git push -u origin main
 ```
 
-## Sonraki güncellemeler
+## Sonraki gÃ¼ncellemeler
 
 ```bash
 git add .
@@ -21,7 +21,7 @@ git commit -m "Update SaveRoom"
 git push
 ```
 
-## Remote yanlışsa düzeltme
+## Remote yanlÄ±ÅŸsa dÃ¼zeltme
 
 ```bash
 git remote remove origin
@@ -29,9 +29,10 @@ git remote add origin https://github.com/KULLANICI_ADIN/saveroom.git
 git push -u origin main
 ```
 
-## Git kurulu değilse
+## Git kurulu deÄŸilse
 
-Windows için Git'i kurman gerekir:
+Windows iÃ§in Git'i kurman gerekir:
 
 https://git-scm.com/download/win
 ```
+
