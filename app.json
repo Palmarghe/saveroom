@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "SaveRoom",
+    "slug": "saveroom",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "description": "Independent premium manager guide and save planning app.",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.recepkaanerkay.saveroom"
+    },
+    "android": {
+      "package": "com.recepkaanerkay.saveroom",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#05070D"
+      }
+    },
+    "extra": {
+      "owner": "Recep Kaan Erkay",
+      "brand": "SaveRoom",
+      "legal": {
+        "independent": true,
+        "notAffiliatedWith": [
+          "Football Manager",
+          "Sports Interactive",
+          "SEGA"
+        ]
+      },
+      "store": {
+        "privacyPolicyUrl": "TODO_PUBLIC_PRIVACY_POLICY_URL",
+        "termsUrl": "TODO_PUBLIC_TERMS_URL",
+        "supportUrl": "TODO_PUBLIC_SUPPORT_URL"
+      }
+    },
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#05070D"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
